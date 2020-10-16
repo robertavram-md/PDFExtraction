@@ -1,0 +1,609 @@
+ Clinical Infectious Diseases
+MAJOR ARTICLE
+Clinical Characteristics of Imported Cases of Coronavirus 
+Disease 2019 (COVID-19) in Jiangsu Province: 
+A Multicenter Descriptive Study
+Jian Wu,1,2,a Jun Liu,3,a Xinguo Zhao,4,a Chengyuan Liu,5,a Wei Wang,2 Dawei Wang,6 Wei Xu,7 Chunyu Zhang,8 Jiong Yu,1 Bin Jiang,9 Hongcui Cao,1,10,  and  D
+o
+Lanjuan Li1 w
+n
+1State Key Laboratory for the Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang  loa
+University, Hangzhou, China, 2Department of Laboratory Medicine, The First People’s Hospital of Yancheng City, Yancheng, China, 3Department of Laboratory Medicine, The Fifth People’s Hospital  de
+oDfi sWeausxei,,  AThffiel iFaitresdt  Ptoe oJpialen’sg nHaons pUintaivl eorfs Yitay,n Wchuexnig,  CChitiyn,a Y, a4nDcehpeanrgtm, Cehnitn oaf,  R6Deseppiararttmioenn, tT ohfe I nFiffetcht iPoeuosp Dlei’sse Hasoes,p Tithael  oSfe Wcounxdi,  PAefofiplilaet’se dH otos pJiitaanl gonf aYna nUcnhiveenrgs iCtyit, yW, Yuaxni,c hCehninga, ,C 5hDienpaa, r7tDmeepnatr tomf eInnfte ocft ious  d from
+Preventive Medicine and Public Health Laboratory Sciences, School of Medicine, Jiangsu University, Zhenjiang, Jiangsu, China, 8Department of Laboratory Medicine, The Second People’s Hospital   h
+of Yancheng City, Yancheng, China, 9Department of Laboratory Medicine, The Central Blood Station of Yancheng City, Yancheng, Jiangsu, China, and 10Zhejiang Provincial Key Laboratory for  ttp
+Diagnosis and Treatment of Aging and Physicochemical Injury Diseases, Hangzhou, China s://a
+c
+Background.  We aimed to report the clinical characteristics of imported cases of coronavirus disease 2019 (COVID-19) in  ad
+e
+Jiangsu Province. m
+ic
+Methods.  We retrospectively investigated the clinical, imaging, and laboratory characteristics of confirmed cases of COVID-19  .o
+u
+with World Health Organization interim guidance in 3 grade IIIA hospitals of Jiangsu from 22 January to 14 February 2020. Real- p.c
+time RT-PCR was used to detect the new coronavirus in respiratory samples. om
+Results.  Of the 80 patients infected with COVID-19, 41 were female, with a median age of 46.1 years. Except for 3 severe pa- /cid
+tients, the rest of the 77 patients exhibited mild or moderate symptoms. Nine patients were unconfirmed until a third nucleic acid  /a
+d
+v
+test; 38 cases had a history of chronic diseases. The main clinical manifestations of the patients were fever and cough, which ac- a
+n
+c
+counted for 63 (78.75%) and 51 (63.75%) cases, respectively. Only 3 patients (3.75%) showed liver dysfunction. Imaging examination  e
+-a
+showed that 55 patients (68.75%) showed abnormal density shadow and 25 cases (31.25%) had no abnormal density shadow in the  rtic
+parenchyma of both lungs. Currently, 21 cases have been discharged from the hospital, and no patient died. The average length of  le
+-a
+stay for discharged patients was 8 days. b
+s
+Conclusions.  Compared with the cases in Wuhan, the cases in Jiangsu exhibited mild or moderate symptoms and no obvious  tra
+c
+gender susceptibility. The proportion of patients having liver dysfunction and abnormal CT imaging was relatively lower than that  t/d
+o
+in Wuhan. Notably, infected patients may be falsely excluded based on 2 consecutively negative respiratory pathogenic nucleic acid  i/1
+0
+test results. .1
+0
+Keywords.   coronavirus disease 2019 (COVID-19); clinical characteristics; imported cases; pneumonia. 9
+3
+/c
+id
+/c
+ia
+The  coronavirus  disease  2019  (COVID-19)  has  been  re- CoV) [5, 6]. Since December 2019, a large number of COVID- a
+1
+9
+cently identified to be caused by a type of B-coronavirus  19 patients have been reported in Wuhan, Hubei Province  9
+/5
+[1]. The virus has enveloped virions that appear as round or  [7–9]. Most of them work in or live around the local Huanan  76
+6
+oval, often polymorphous, with a diameter of 60–140 nm  seafood wholesale market, where wild animals are illegally on  40
+8
+[2].  It  is  widely  distributed  in  human  and  other  mam- sale. Severe symptoms of acute respiratory infection appeared   b
+y
+mals,  and  its  genome  is  more  distant  from  severe  acute  within the early stage of this pneumonia, with exacerbating   g
+u
+e
+respiratory  syndrome  coronavirus  (SARS  CoV)  [3,  4]   cases where patients developed acute respiratory distress syn- st o
+and Middle East respiratory syndrome coronavirus (MERS  drome (ARDS), septic shock, metabolic acidosis, and coagula- n
+ 1
+8
+tion dysfunction, which are difficult to correct [10].  M
+As of 14 February 2020, 66 577 cases have been confirmed in  ay
+ Received 8 February 2020; editorial decision 21 February 2020; accepted 26 February 2020;   2
+China, including 54 406 cases in Hubei Province, 37 914 cases in  0
+published online February 29, 2020. 2
+0
+aJ. W., J. L., X. Z., and C. L. contributed equally to this work. Wuhan City, including medical staff, and several exported cases 
+Correspondence: H. Cao, State Key Laboratory for the Diagnosis and Treatment of Infectious  in Thailand, Singapore, Japan, South Korea, the United States, 
+Diseases, National Clinical Research Center for Infectious Diseases, The First Affiliated 
+Australia, and other countries. Considering its highly conta-
+Hospital, College of Medicine, Zhejiang University, 79 Qingchun Rd, Hangzhou 310003, China 
+(hccao@zju.edu.cn). gious nature, COVID-19 has been categorized as a class B in-
+Clinical Infectious Diseases®    2020;XX(XX):1–7 fectious disease stipulated in the law of the People’s Republic of 
+© The Author(s) 2020. Published by Oxford University Press for the Infectious Diseases Society 
+China on the prevention and control of infectious diseases for 
+of America. All rights reserved. For permissions, e-mail: journals.permissions@oup.com.
+DOI: 10.1093/cid/ciaa199 the first time, and is managed as class A infectious disease [11].
+80 Imported COVID-19 Cases in Jiangsu • cid 2020:XX (XX XXXX) • 1 So far, several studies have described the epidemiological and  subsequently developed into bilateral ground-glass opacity, 
+clinical characteristics of patients with COVID-19, but they are  infiltrates, and lung consolidation; pleural effusion was rarely 
+all limited to cases in Wuhan and not in other areas [12, 13]. In  seen; (3) in the early stage of the disease, the total number 
+this study, the clinical characteristics of 80 patients diagnosed  of leukocytes was normal or decreased, or the lymphocyte 
+with COVID-19 in 3 grade IIIA hospitals of Jiangsu Province  count was decreased.
+are discussed. We believe our findings will provide further de-  3. Pathogenic evidence: the nucleic acid test was used to detect 
+tails to the epidemic situation and clinical characteristics of this  the new coronavirus in respiratory fluid.
+novel coronavirus.
+The patients were clinically classified into 4 types: mild, mod-
+METHODS erate, severe, or critically ill. The criteria for clinical classifica- D
+o
+tions are shown in Supplementary Table 1. w
+n
+Patients lo
+a
+All enrolled 80 patients, who were referred to the First People’s  Strategy for Nucleic Acid Tests ded
+Hospital of Yancheng City, the Second People’s Hospital of  Once a suspected case was admitted to the hospital, the nu-  fro
+Yancheng City, and the Fifth People’s Hospital of Wuxi from 22  m
+cleic acid test was carried out immediately. A nose swab and/or   h
+January to 14 February were retrospectively and consecutively  throat swab were taken from each patient. The nucleic acid test  ttps
+analyzed. According to the arrangements by the Chinese gov- was considered positive if the result of either of the above sam- ://a
+c
+ernment, all 3 tertiary hospitals provide treatment for all pa- a
+ples was positive. If it was negative, the samples would be taken  d
+e
+tients who were diagnosed as having COVID-19 according to  m
+once a day for the next 2 days. ic
+World Health Organization (WHO) interim guidance [14]. We  After the treatment, if the patient’s condition improved sig- .ou
+collected all the data including clinical, demographic, labora- nificantly and there were no respiratory symptoms of fever or  p.c
+o
+tory parameters; chest computed tomography (CT); length of  m
+cough, the patient would be discharged after passing 2 consec- /c
+hospitalization and intensive care unit stay; and prognosis from  utive nucleic acid tests. id/a
+patients’ medical records and attending doctors. The data end- d
+v
+a
+point was 14 February 2020. The present study was performed in  Detection of Coronavirus nc
+e
+accordance with the Helsinki Declaration and was approved by   A total of 150 µL of sample from throat swab and/or nose swab  -a
+the Ethics Committee of the First People’s Hospital of Yancheng  of each patient was used to extract total RNA. On the basis of the  rticle
+City. Written informed consent was obtained from participants  manufacturer’s instructions, total RNA extracted using the res- -ab
+s
+or their families when data were collected retrospectively. piratory sample RNA isolation kit (Zhongzhi, Wuhan, China)  tra
+c
+According to WHO Interim Guidance [14], cases in this  and each sample obtained 40 μL elution. In order to target the  t/d
+o
+study were defined as anyone with the following epidemiolog- nucleocapsid (N) gene and open reading frame lab (ORF1ab)  i/1
+0
+ical history and consistent with any 2 clinical manifestations  gene using a 2019 novel coronavirus nucleic acid detection re- .1
+0
+and the pathogenic evidence: agent (Bio-germ, Shanghai, China), we used real-time reverse  93
+/c
+transcriptase–polymerase chain reaction (RT-PCR) with 5 μL  id
+/c
+ 1. Epidemiological history: (1) within 14 days before the onset  RNA. The final reaction mixture concentrations of primer and  ia
+a
+of the disease, there were tourism or residence histories in  probe were 500 nm and 200 nm, respectively. The sequences  19
+9
+Wuhan or its surrounding areas, or other communities with  used and real-time RT-PCR performance conditions are listed  /57
+6
+confirmed cases; (2) within 14 days before the onset of the  in Supplementary Table 2. 64
+0
+disease, there were contacts with confirmed cases of COVID- The lowest detection concentration is 1 × 103 copies/mL.  8 b
+19; (3) within 14 days before the onset of the disease, there  There was no cross-reaction with influenza A virus H1N1,  y g
+u
+were contacts with suspected cases (having fever or respi- H1N1 (2009), H3N2, H5N1, H7N9, influenza B virus (BV and  e
+s
+ratory symptoms) from Wuhan or its surrounding areas, or  BY  types),  human  coronavirus  (229E/HKU1/OC43/NL63/ t o
+n
+other communities with confirmed cases; (4) aggregation— SARS/MERS),  parainfluenza  virus  (1,  2,  3),  or  rhinovirus   18
+ M
+within 14 days before the onset of the disease, 1 confirmed  A/B/C. No more than 50% blood and less than 0.9 mg/mL of  a
+y
+case was found in an enclosed environment (eg, a family  mucin in the sample will not cause interference.  2
+0
+house, a construction site, an office) with 1 or more cases  20
+of fever respiratory tract infection found at the same time,  Statistical Analysis
+revealing potential interpersonal transmission or joint expo- Statistical analyses were performed with SPSS (version18.0; 
+sure of the disease. SPSS Inc, Chicago, IL). If the continuous measurement is a 
+ 2. Clinical manifestations: (1) fever and/or respiratory symp- normal distribution, we present it as a mean (±SD); if it is not 
+toms; (2) imaging indicates multiple mottling and interstitial  a normal distribution, we present it as a median (interquartile 
+changes in the lung periphery during the early stage, which  range [IQR]); the classification variable is presented as a count 
+2 • cid 2020:XX (XX XXXX) • Wu et al (%). We also evaluated whether the laboratory parameters were  respectively. Thirty cases (37.50%) had shortness of breath. In 
+outside the normal range. addition, 18 (22.50%) patients had muscle ache, 13 patients 
+(16.25%) had headache and mental disorder symptoms, and 
+RESULTS no patients had hemoptysis or diarrhea symptoms. The av-
+erage time from onset to the emergence of shortness of breath 
+Demographics, Baseline, and Clinical Characteristics of Patients With 
+COVID-19 was 8.0 days (IQR, 5.0–13.0). Except for 10 patients (12.50%) 
+In this study, 80 cases with COVID-19 in Yancheng City and  with acute respiratory injury and 2 patients (2.50%) with renal 
+Wuxi City were investigated, including 5 families. All these  injury, there was no other organ damage (Table 1). The inter-
+cases were imported infections (with an epidemiological his- sections of positive nucleic acid test result and clinical charac-
+tory of Wuhan) and had no contact with Huanan seafood  teristic are shown in Supplementary Table 3. D
+o
+w
+market in Wuhan. None of these patients were medical staff.  n
+lo
+Among them, 41 patients (51.25%) were female, with a me- Laboratory Findings of Patients With COVID-19 ad
+e
+dian age of 46.1 years (IQR, 30.7–61.5). Twenty-seven patients  The white blood cell (WBC) count of 36 patients (45.00%) was  d
+(33.75%) were aged 25–49 years, 19 patients (23.75%) were  lower than the normal range (4 × 109/L), and 26 patients (32.50%)   from
+aged 50–64 years, 15 patients (18.75%) were aged 18–24 years,  had lymphocytopenia (the lymphocyte count was <1.0 × 109/L).   http
+1(101 .p2a5t%ie)n tws e(r1e2 o.5v0e%r )6 5w yeerea rus nodlde r( F1i8g uyreea r1s) .o Oldf,  tahned 1 90  ppaattiieennttss   Eralnevgeen ( 1p2a5ti e×n t1s0 (9/1L3).7, 5a%nd)  nhoad p aptliaetneltest sh aldow pelra tethleatns  hthigeh enro rtmhaanl   s://ac
+a
+under 18 years old, the minimum age was 4, 2 patients were  the normal range (350 × 109/L). There were 62 patients (77.50%)  de
+m
+between 6 and 8 years old, and 6 patients were between 11 and  with high C-reactive protein (CRP) and 59 patients (73.75%)  ic
+.o
+13 years; the maximum age was 14. In term of clinical classifica- with a high erythrocyte sedimentation rate (ESR). Only 1 patient  up
+.c
+tion, 28 (35.00%) patients were mild type, 49 (61.25%) patients  (1.25%) had an elevated procalcitonin (PCT) level. o
+m
+were moderate type, 3 (3.75%) patients were severe type, and no  In terms of liver function, only 3 patients (3.75%) showed al- /c
+id
+patient was critically ill. During the diagnostic procedure, we  anine transaminase (ALT) or aspartate aminotransferase (AST)  /a
+d
+v
+found that 41 patients (51.25%) had a positive result in the first  above the normal range. Two patients (2.50%) had a lower al- a
+n
+c
+test, and 30 patients (37.50%) had a positive result in the second  bumin level than the normal range (35 g/L). Eighteen patients  e
+-a
+test. Surprisingly, another 9 patients (11.25%) remained nega- (22.50%)  had  an  abnormal  myocardial  enzyme  spectrum,  rtic
+tive until a third test. Of all the 80 patients, 38 cases (47.50%)  indicating an increase in creatine kinase (CK). The level of lac- le-a
+b
+had a history of chronic diseases, including cardiovascular and  tate dehydrogenase (LDH) was increased in 17 patients (21.25%).  s
+tra
+cerebrovascular diseases, endocrine system diseases, digestive  Two patients (2.50%) had different degrees of renal function  c
+t/d
+system diseases, respiratory system diseases, malignant tumors,  damage, one of them had serious renal function damage (Urea:  o
+i/1
+and nervous system diseases (Table 1). 26.5 mmol/L, creatinine [CREA]: 1054.4 mmol/L). The blood  0
+.1
+The most common symptoms were fever and cough, which  glucose (GLU) level of 19 patients (23.17%) exceeded the normal  0
+9
+3
+accounted  for  63  cases  (78.75%)  and  51  cases  (63.75%),  range (5.9 mmol/L). The level of D-dimer was increased in 3  /c
+id
+/c
+ia
+a
+1
+9
+9
+/5
+7
+6
+6
+4
+0
+8
+ b
+y
+ g
+u
+e
+s
+t o
+n
+ 1
+8
+ M
+a
+y
+ 2
+0
+2
+0
+Figure 1.  Age distribution, clinical classification, and nucleic acid tests of patients infected with coronavirus disease 2019. A, Number of confirmed patients by age group; 
+B, number of confirmed patients by different clinical classification; C, number of nucleic acid tests used to confirm patients.
+80 Imported COVID-19 Cases in Jiangsu • cid 2020:XX (XX XXXX) • 3 Table 1.  Demographic, Baseline, and Clinical Characteristics of Patients  Table 1.  Continued
+With COVID-19
+Variables Patients (N = 80)
+Variables Patients (N = 80)
+Intravenous immunoglobulin therapy 16 (20.00)
+Age, years    Noninvasive (ie,,face mask)  35 (43.75)
+Mean ± SD 46.10 ± 15.42 Mechanical ventilation 0 (0.00)
+Age group, n (%)   ECMO 0 (0.00)
+<18 years 10 (12.50) Traditional Chinese medicine 3 (3.75)
+18–24 years 15 (18.75) Clinical outcome, n (%)  
+25–49 years 27 (33.75) Remained in hospital 61 (76.25)
+50–64 years 19 (23.75) Discharged 21 (23.75)
+D
+≥65 years 9 (11.25) Died 0 (0.00) o
+w
+Sex, n (%)   Abbreviations: COPD, chronic obstructive pulmonary disease; COVID-19, coronavirus di- nlo
+Female 41 (51.25) sease 2019; CT, computed tomography; ECMO, extracorporeal membrane oxygenation;  ad
+HIV, human immunodeficiency virus; SD, standard deviation. e
+Male 39 (48.75) d
+Clinical classification, n (%)    fro
+m
+Mild type 28 (35.00) patients (3.75%). Nine types of respiratory pathogens and influ-  h
+Moderate type 49 (61.25) enza A and B nucleic acids were examined in all patients, and bac- ttp
+s
+Severe type 3 (3.75) teria and fungi were cultured simultaneously. The results showed  ://a
+Critically ill type 0 (0.00) ca
+that all patients were negative for the above pathogens (Table 2). d
+Types of infection, n (%)   e
+m
+Huanan seafood wholesale market exposure 0 (0.00) Imaging Features of Patients With COVID-19 ic.o
+Imported infections 80 (100.00) u
+Of the 80 patients, 55 (68.75%) showed abnormal chest CT im- p
+Number of nucleic acid tests, n (%)   .c
+First time 41 (51.25) ages, consisting of 36 cases (45.00%) of bilateral pneumonia  om
+Second time 30 (37.50) and 19 cases (23.75%) of unilateral pneumonia (Table 1). There  /cid
+Third time 9 (11.25) were no bilateral lobular and subsegmental consolidation areas,  /ad
+v
+Comorbidities, n (%)  38 (47.50) bilateral ground-glass shadows, or subsegmental consolidation  an
+Cadrdisioevaassecsu,claerr aenbdro cvearsecburloarv adsisceualasre ss 25 (31.25) areas, and only bilateral ground-glass opacity (Figure 2A) and  ce-a
+Endocrine system diseases 5 (6.25) unilateral ground-glass opacity (Figure 2B). Twenty-five cases  rtic
+le
+Digestive system disease 3 (3.75) (31.25%) had no abnormal density shadow in the parenchyma  -a
+b
+Respiratory system diseases 1 (1.25) of both lungs (Figure 2C). stra
+Malignant tumor 1 (1.25) c
+Nervous system diseases 1 (1.25) Treatment for Patients With COVID-19 t/d
+o
+Chronic kidney disease 1 (1.25) All  patients  were  treated  empirically  with  a  single  antibi- i/1
+0
+Chronic liver disease 1 (1.25) otic, mainly moxifloxacin. The duration of antibiotic treat- .10
+CHSeOIVpP tiDincf eschtoiockn 000   (((000...000000))) mreceenitv ewda sr i3b–a1v2ir idna yasn (tmivierdaila nth, e7r adpayy sf; oIrQ 3R–, 142– 9d)a. yAs ll( mpaetdieiannts,   93/cid/c
+ia
+Signs and symptoms at admission, n (%)   7 days; IQR, 3–10). Twelve patients (14.63%) also received  a
+1
+9
+Fever 63 (78.75) methylprednisolone sodium succinate or methylprednisolone  9
+/5
+Cough 51 (63.75) for 3–12 days (median, 5 days; IQR, 3–8). Thirty-five patients  7
+6
+Shortness of breath 30 (37.50) 6
+(43.75%) were managed with a noninvasive ventilator (ie, face  4
+0
+Muscle ache 18 (22.50) 8
+mask). No patient used an invasive ventilator. One patient was   b
+Headache and mental disorder symptoms 13 (16.25) y
+supported with hemodialysis. In addition, 3 patients used tradi-  g
+Sore throat 11 (13.75) u
+e
+Rhinorrhea 5 (6.10) tional Chinese medicine (Jian Wei Xiao Shi oral liquid, Jichuan  st o
+Chest pain 3 (3.75) Pharmaceutical Group Co., Ltd., Taixing, China and Xi Yan  n
+ 1
+Diarrhea 1 (1.25) Ping, Jiangxi Qingfeng Pharmaceutical Co. LTD, Ganzhou,  8 M
+Nausea and vomiting 1 (1.25) China) to improve their gastrointestinal function. a
+y
+More than 1 sign or symptom 66 (82.50)  2
+0
+Chest radiograph and CT findings, n (%)   2
+Prognosis of Patients With COVID-19 0
+Bilateral pneumonia 36 (45.00)
+As of 14 February, 21 of the 80 patients (23.75%) had been dis-
+Unilateral pneumonia  19 (23.75)
+No abnormal density shadow  25 (31.25)  charged from the hospital. The average length of stay of discharged 
+Treatment, n (%)   patients was 8 days. All other patients were still in the hospital for 
+Antibiotic treatment 73 (91.25) treatment, and no patient died. The discharge standard reference 
+Antiviral treatment 80 (100.00)
+was as follows: body temperature returned to normal for more 
+Hormone therapy 12 (14.63)
+than 3 days, respiratory symptoms improved significantly, and 
+4 • cid 2020:XX (XX XXXX) • Wu et al Table 2.  Laboratory Findings of Patients With Imported COVID-19
+Patients (N = 80)
+Normal 
+Variables Range (NR)  Median (IQR) Above NR, n (%) Below NR, n (%)
+Blood routine examination        
+White blood cell count (×109/L) 3.5–9.5 4.1 (3.2–5.7) 5 (6.25) 36 (45.00) 
+Neutrophil count (×109/L) 1.8–6.3 4.3 (2.3–5.9) 20 (25.00)  …
+Lymphocyte count (×109/L) 1.1–3.2 0.6 (0.4–1.0)  … 26 (32.50)
+Monocyte count (×109/L) 0.1–0.6  0.5 (0.3–0.7) 15 (18.75) …
+Platelet count (×109/L) 125.0–350.0 155 (116–188)  0 (0.0) 11 (13.75) 
+D
+Hemoglobin (g/L) 130.0–175.0 125.3 (13.4) … 29 (36.25) o
+w
+Coagulation function         n
+Activated partial thromboplastin time (s) 21.0–37.0 18.6 (17.2–28.6) … 2 (2.50) loa
+d
+Prothrombin time (s) 10.5–13.5 10.8 (9.3–13.2) … 3 (3.75) e
+d
+D-dimer (µg/L) 0.0–1.5 0.9 (0.4–2.4） 3 (3.75) …  fro
+Blood biochemistry         m
+ h
+Alanine aminotransferase (U/L) 9.0–50.0 24 (12–38)  3 (3.75) … ttp
+Aspartate aminotransferase (U/L) 15.0–40.0 30 (19–39) 3 (3.75) … s://a
+Albumin (g/L) 40.0–55.0 38.3 (37.0–46.2) … 2 (2.50) c
+a
+Total bilirubin (μmol/L) 0.0–21.0 6.6 (5.4–12.0)  1 (1.25) … de
+m
+Blood urea nitrogen (mmol/L) 3.6–9.5 4.9 (3.4–5.9)  2 (2.50) … ic
+Serum creatinine (μmol/L) 57.0–111.0 78 (60–90)  2 (2.50) … .o
+u
+Lactate dehydrogenase (U/L) 120.0–250.0 226 (182–308)  17 (21.25) … p.c
+o
+Glucose (mmol/L) 3.9–6.1 6.8 (4.6–7.7)  19 (23.17) … m
+Creatine kinase (U/L) 50.0–310.0 99 (61–191) 18 (22.50) … /cid
+Creatine kinase–muscle/brain (U/L) <25 22 (15–25)  16 (20.00) … /a
+d
+Infection-related biomarkers         va
+n
+C-reactive protein ≥5.0 (mg/L) 0.0–5.0 6.6 (5.3–12.3） 62 (77.50) … c
+e
+Procalcitonin ≥5.0 (ng/mL) 0.0–5.0 1.3 (0.4–2.6） 1 (1.25) … -a
+Erythrocyte sedimentation rate ≥15 (mm/h) 0.0–15.0 11.9 (9.0–17.2) 59 (73.75) … rtic
+le
+Abbreviations: COVID-19, coronavirus disease 2019; IQR, interquartile range; NR, normal range. -a
+b
+s
+tra
+c
+t/d
+o
+respiratory pathogenic nucleic acid test was negative for 2 con- contradicting the conclusion that men are more susceptible  i/1
+0
+secutive times (sampling interval at least 1 day). than women. This may be related to the insufficient number of  .1
+0
+samples in these 3 studies. The results may also be influenced  93
+DISCUSSION /c
+by the spreading mode of the disease, as 5 cases of intrafamilial  id
+/c
+In this multicenter, multi-sample study, 80 cases with COVID- transmission were included in this study. The age distribution of  ia
+a
+19 in Yancheng and Wuxi were reported. All patients had im- the patients was consistent with the study by Huang et al [19]. 19
+9
+ported infections. Most of them received a timely diagnosis  In terms of clinical classification, 3 patients had severe pneu- /5
+7
+6
+and treatment as the government formulated an efficient early- monia, and 77 patients had mild or moderate symptoms. These  6
+4
+0
+warning and isolation program in time. Except for 3 severe pa- imported cases diagnosed in a timely fashion and treated in  8
+ b
+tients, the rest of the 77 patients exhibited mild or moderate  Jiangsu Province. Since most of the cases in this study were  y g
+u
+symptoms. This report provides the latest information on in- mild, the main symptoms were fever and cough. Ten patients  e
+s
+fected patients in 2 cities of Jiangsu Province. had acute respiratory injury, 2 patients had renal injury, and no  t o
+n
+COVID-19 was mainly transmitted through respiratory drop- other organ damage was found.  1
+8
+lets and contact [15]. At present, patients with COVID-19 are the  In terms of laboratory tests, nearly half of the patients had a   M
+a
+y
+main source of infection [16]. What is more remarkable is that  decreased number of WBCs and one-third of the patients had   2
+0
+asymptomatic infections can also be a source of infection [17]. The  a decreased number of lymphocytes. In most patients, the CRP  20
+2 cities mentioned in this study, Wuxi and Yancheng, are respec- level was elevated but the PCT level was normal. All of these 
+tively located in the South and North of Jiangsu Province, and they  changes further illustrated that COVID-19 may exert a major 
+are representative in population, economic level, and traffic level. impact on lymphocytes, especially T lymphocytes. The virus 
+Compared with the results of the 2 studies on Wuhan cases  spreads and invades through respiratory mucosa, triggers a se-
+by Chen et al [18] and Huang et al [19], we found that the  ries of immune responses, and induces the multiple cytokine-
+gender proportion was equal in the 80 patients we included,  release syndrome, resulting in changes in immune components 
+80 Imported COVID-19 Cases in Jiangsu • cid 2020:XX (XX XXXX) • 5 protein levels. In addition, 19 patients had an elevated GLU 
+level, and 18 patients had an abnormal muscle zymogram.
+In this study, all cases were confirmed by nucleic acid test. 
+The total nucleic acid tests prior to a positive diagnosis for each 
+patient were analyzed. Notably, 9 patients passed 3 tests before 
+they received positive results. Therefore, we consider that if the 
+suspected cases are excluded based on 2 consecutively negative 
+respiratory pathogenic nucleic acid test results (the sampling 
+time is at least 1 day apart), approximately 10% of the infected 
+patients will be missed. D
+o
+Chest imaging is of great significance for the diagnosis [23].  wn
+lo
+In the early stage, there were multiple mottling and interstitial  a
+d
+e
+changes, especially in the peripheral portion. In severe cases,  d
+lung consolidation can occur, but pleural effusion was rare. In   fro
+m
+the case reports of Wuhan, CT images of all patients were ab-  h
+ttp
+normal; 98% of the patients had bilateral involvement. However,  s
+in our study, the abnormal rate was relatively lower; 55 patients  ://ac
+a
+(68.75%) showed abnormal chest CT images, 36 (45.00%)  de
+m
+showed bilateral pneumonia, 19 (23.75%) showed unilateral  ic
+.o
+pneumonia. 25 cases had no abnormality on the first CT, and  u
+p
+23 of them had been diagnosed for more than 4 days. In this  .co
+m
+regard, we suggest that, when screening patients, clinical mani- /c
+id
+festations, laboratory examination, and chest imaging should be  /a
+d
+combined for comprehensive analysis. va
+n
+Currently, there is no specific drug for the treatment of  ce
+-a
+patients with COVID-19 [24, 25]. A US study showed that  rtic
+remdesivir had good therapeutic effect [26]. China has now car- le
+-a
+ried out preliminary clinical trials on this drug [27]. Currently,  bs
+Figure 2.  Chest radiograph images and chest computed tomography (CT) images  the clinical treatment mainly includes empirical antibacterial  trac
+of 3 patients. A, Chest radiograph images and chest CT images from a 71-year-old  drugs, antiviral treatment with ribavirin, and an appropriate  t/do
+woman showing that there are scattered high-density shadows with fuzzy patches  dose of methylprednisolone to alleviate the shortness of breath.  i/10
+in the lower lobes of the 2 lungs, with ground-glass–like changes, with clear hilar  .1
+structure, unobstructed trachea, no displacement of mediastinum, no enlarged  At the same time, it is suggested to use traditional Chinese med- 09
+3
+lymph node shadow, and local thickening of bilateral pleura. B, Chest radiograph  icine properly to improve the physical signs of patients. In this  /c
+images and chest CT images from a 38-year-old man showing that there are small  study, as there was no critical case, no patient used an invasive  id/c
+patchy ground-glass–like density increasing shadows in the upper and lower lobes  ia
+ventilator. All 3 hospitals followed the above scheme. At pre- a
+of the left lung, with clear hilar structure, unobstructed trachea, no mediastinum  1
+9
+displacement, no enlarged lymph node shadow, and no abnormality of pleura on  sent, 21 cases have been discharged from the hospital, with an  9
+/5
+both sides. C, Chest radiograph images and chest CT images from a 12-year-old boy  average length of stay of 8 days, no death was reported, and all  76
+showing that there was no abnormal density shadow in the parenchyma of both  6
+other patients were still in the hospital. 4
+lungs, the structure of pulmonary hilus was clear, the trachea was unobstructed,  08
+mediastinum was not displaced, and no enlarged lymph node shadow was found. This study is limited by its retrospective nature. First, due to   b
+y
+the limited number of patients, our conclusions need to be fur-  g
+u
+e
+ther verified by large samples and multicenter data. Second, the  s
+t o
+such as peripheral blood leukocytes and lymphocytes [20].  prognosis is unavailable at the time of analysis, and extended  n
+ 1
+Therefore, intravenous immunoglobulins were used in most  follow-up time would provide more detailed information about  8 M
+patients with decreased WBC and lymphocyte levels. potential risk factors that interfere with clinical outcomes.  ay
+ 2
+It has been reported that patients with COVID-19 infection  Third, only 2 cities in Jiangsu Province were selected in this  0
+2
+0
+are prone to exhibit liver dysfunction, and the potential mech- study. Although they are representative, more urban cases need 
+anism is that COVID-19 may directly bind to angiotensin- to be included to make the research results more accurate.
+converting enzyme 2 (ACE2)-positive bile duct cells [21, 22].  In conclusion, in-depth study is still needed for patients with 
+It is suggested that the liver abnormality of patients with SARS  COVID-19. Reliable, rapid pathogen detection and practical 
+and COVID-19 may not be caused by liver cell damage but by  differential diagnosis based on clinical description are crucial 
+bile duct cell dysfunction and other reasons. In our study, 3 pa- for clinicians to contact suspected patients for the first time, and 
+tients had abnormal ALT and AST, and 2 patients had decreased  it is urgent to develop virus vaccines and effective drugs.
+6 • cid 2020:XX (XX XXXX) • Wu et al Supplementary Data 10. Kofi Ayittey F, Dzuvor C, Kormla Ayittey M, et al. Updates on Wuhan 2019 novel 
+coronavirus epidemic. J Med Virol 2020; 92: 403–7.
+Supplementary materials are available at Clinical Infectious Diseases online. 
+11. Kanne JP. Chest CT findings in 2019 novel coronavirus (2019-nCoV) infections 
+Consisting of data provided by the authors to benefit the reader, the posted 
+from Wuhan, China: key points for the radiologist. Radiology 2020; doi:10.1148/
+materials are not copyedited and are the sole responsibility of the authors, 
+radiol.2020200241.
+so questions or comments should be addressed to the corresponding author. 12. Yu F, Du L, Ojcius DM, et al. Measures for diagnosing and treating infections by 
+a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan. 
+China. Microbes Infect 2020; doi:10.1016/j.micinf.2020.01.003.
+Notes
+13. Eurosurveillance  Editorial  Team.  Note  from  the  editors:  World  Health 
+Acknowledgments. The authors thank the authors of the primary studies  Organization declares novel coronavirus (2019-nCoV) sixth public health emer-
+for their timely and helpful responses to our information requests. gency of international concern. Euro Surveill. 2020; 25. doi: 10.2807/1560-7917.
+Financial support. This work was supported by Zhejiang University  ES.2020.25.5.200131e.
+Special Scientific Research Fund for COVID-19 Prevention and Control  14. World Health Organization. Clinical management of severe acute respiratory in-
+(grant number 2020XGZX052). fection when novel coronavirus (nCoV) infection is suspected: interim guidance.  D
+o
+Potential conflicts of interest. H. C. is the recipient of grants from  2020.  Available  at:  https://www.who.int/internalpublications-detail/clinical- w
+Zhejiang University Special Scientific Research Fund. All other authors re- management-of-severe-acute-respiratoryinfection-when-novel-coronavirus- nlo
+(ncov)-infection-is-suspected. Accessed 20 January 2020. a
+port no potential conflicts. All authors have submitted the ICMJE Form for  d
+15. Yang F, Liu N, Wu JY, et al. Pulmonary rehabilitation guidelines in the principle of  e
+Dsidisecrl oresulervea onft  Ptoo ttehnet icaoln Cteonntfl oifc ttsh eo fm Inanteursecsrt.i pCt ohnaflviec btse ethna dt itshcelo esdeidt.ors con- 4HSe  fHore  pHauti eXnit sZ ian Zfehcit e2d0 2w0i;t h4 32:0E1090 4n.ovel coronavirus (2019-nCoV). Zhonghua Jie  d from
+16. Chen Z-M, Fu J-F, Shu Q, et al. Diagnosis and treatment recommendations for   h
+pediatric respiratory infection caused by the 2019 novel coronavirus. World J  ttp
+R1e. fPeerneg nZc, Yeasng X-L, Wang X-G, et al. A pneumonia outbreak associated with a new  17. PTueditiea tAr R20, 2F0is; mdoain:1 D0.N10. 0R7e/ps1o2r5ti1n9g-,0 e2p0i-d0e0m34ic5 -g5r.owth, and reproduction numbers  s://a
+c
+coronavirus of probable bat origin. Nature 2020; doi:10.1038/s41586-020-2012-7. for the 2019 novel coronavirus (2019-nCoV) epidemic. Ann. Intern. Med 2020;  ad
+2. Zhao S, Lin Q, Ran J, et al. Preliminary estimation of the basic reproduction  doi:10.7326/M20-0358. em
+number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: a  18. Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99  ic
+data-driven analysis in the early phase of the outbreak. Int J Infect Dis 2020;  cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.  .o
+u
+92: 214–7. Lancet 2020; 395: 507–13. p
+3. Thompson RN. Novel coronavirus outbreak in Wuhan, China, 2020: intense sur- 19. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel  .co
+m
+veillance is vital for preventing sustained transmission in new locations. J Clin  coronavirus in Wuhan, China. Lancet 2020; 395: 497–506.
+/c
+Med 2020; 9: doi:10.3390/jcm9020498. 20. Song F, Shi N, Shan F, et al. Emerging coronavirus 2019-nCoV pneumonia.  id
+4. Liu Y, Gayle AA, Wilder-Smith A, et al. The reproductive number of COVID-19  Radiology 2020; doi:10.1148/radiol.2020200274. /a
+d
+is higher compared to SARS coronavirus. J Travel Med 2020; doi:10.1093/jtm/ 21. Wan Y, Shang J, Graham R, et al. Receptor recognition by novel coronavirus from  v
+a
+taaa021. Wuhan: an analysis based on decade-long structural studies of SARS. J. Virol  n
+c
+5. Hui DS, Azhar EI, Kim Y-J, et al. Middle East respiratory syndrome coronavirus:  2020; doi:10.1128/JVI.00127-20. e-a
+rsiioskn .f aLcatnocres ta Inndfe dcte tDerism 2i0n1an8;t s1 8o:fe 2p1ri7m–ea2ry2,7 h.ousehold, and nosocomial transmis- 22. Ccahuasie  Xli,v Heru  dLa,m Zahgaen agf tYe,r  e2t 0a1l.9 -SnpCecoiVfic  inAfCecEt2io enx. pbrieosRsixoinv  i2n0 c2h0o; ldanoig: iohcttyptes:s/ /mdoaiy.  rticle
+6. Cho SY, Kang J-M, Ha YE, et al. MERS-CoV outbreak following a single patient  org/10.1101/2020.02.03.931766 -a
+exposure in an emergency room in South Korea: an epidemiological outbreak  23. Chung M, Bernheim A, Mei X, et al. CT imaging features of 2019 novel corona- bs
+study. Lancet 2016; 388:994–1001. virus (2019-nCoV). Radiology 2020; doi:10.1148/radiol.2020200230. tra
+7. Chuhmena nL ,c oLriuon Wav, irZuhsa fnrgo mQ , tweto a iln. dRiNviAdu baal spende mumNoGnSia a cpapsreosa icnh  2id01en9 tWifieush aan n oouvet-l  24. Lpriuev Wen, tMiono rasne dJ atrreeda tSm, eLnatl oonpdtieo nTs,  efot ra ls.e Lveeraer naicnugt ef rroemsp itrhaet oprays tin: pfeocstsioibnlse  cuarugseendt   ct/do
+break. Emerg Microbes Infect 2020; 9:313–319. by 2019-nCoV. Chembiochem 2020; 21: 730–8. i/1
+0
+8. Du Z, Wang L, Cauchemez S, et al. Risk for transportation of 2019 novel corona- 25. Lu H. Drug treatment options for the 2019-new coronavirus (2019-nCoV). Biosci  .1
+virus disease from Wuhan to other cities in China. Emerging Infect Dis 2020; 26:  Trends 2020; doi:10.5582/bst.2020.01020. 0
+9
+doi:10.3201/eid2605.200146. 26. Holshue ML, DeBolt C, Lindquist S, et al. First case of 2019 novel coronavirus in  3/c
+9. Lu R, Zhao X, Li J, et al. Genomic characterisation and epidemiology of 2019  the United States. N Engl J Med 2020; 382: 929–36. id
+novel coronavirus: implications for virus origins and receptor binding. Lancet  27. Wang M, Cao R, Zhang L, et al. Remdesivir and chloroquine effectively inhibit the  /c
+ia
+2020; 395: 565–74. recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res 2020; 30: 269–71. a
+1
+9
+9
+/5
+7
+6
+6
+4
+0
+8
+ b
+y
+ g
+u
+e
+s
+t o
+n
+ 1
+8
+ M
+a
+y
+ 2
+0
+2
+0
+80 Imported COVID-19 Cases in Jiangsu • cid 2020:XX (XX XXXX) • 7

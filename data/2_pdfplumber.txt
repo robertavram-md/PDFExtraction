@@ -1,0 +1,413 @@
+ The new england journal of medicine
+Original Article
+Cardiovascular Disease, Drug Therapy,  
+and Mortality in Covid-19
+Mandeep R. Mehra, M.D., Sapan S. Desai, M.D., Ph.D., 
+SreyRam Kuy, M.D., M.H.S., Timothy D. Henry, M.D., and Amit N. Patel, M.D.  
+ABSTRACT
+BACKGROUND
+Coronavirus disease 2019 (Covid-19) may disproportionately affect people with  From Brigham and Women’s Hospital 
+cardiovascular disease. Concern has been aroused regarding a potential harmful  Heart and Vascular Center and Harvard 
+Medical School, Boston (M.R.M.); Surgi-
+effect of angiotensin-converting–enzyme (ACE) inhibitors and angiotensin-recep-
+sphere, Chicago (S.S.D.); Baylor College of 
+tor blockers (ARBs) in this clinical context. Medicine and Department of Veterans Af-
+fairs, Houston (S.K.); Christ Hospital, Cin-
+METHODS cinnati (T.D.H.); the Department of Bio-
+Using an observational database from 169 hospitals in Asia, Europe, and North  medical Engineering, University of Utah, 
+Salt Lake City (A.N.P.); and HCA Research 
+America, we evaluated the relationship of cardiovascular disease and drug therapy 
+Institute, Nashville (A.N.P.). Address re-
+with in-hospital death among hospitalized patients with Covid-19 who were admit- print requests to Dr. Mehra at Brigham 
+ted between December 20, 2019, and March 15, 2020, and were recorded in the  and Women’s Hospital, 75 Francis St., 
+Boston, MA 02115, or at  mmehra@  bwh 
+Surgical Outcomes Collaborative registry as having either died in the hospital or 
+. harvard . edu.
+survived to discharge as of March 28, 2020.
+This article was published on May 1, 2020, 
+and updated on May 8, 2020, at NEJM.org.
+RESULTS
+Of the 8910 patients with Covid-19 for whom discharge status was available at the  DOI: 10.1056/NEJMoa2007621
+Copyright © 2020 Massachusetts Medical Society.
+time of the analysis, a total of 515 died in the hospital (5.8%) and 8395 survived 
+to discharge. The factors we found to be independently associated with an in-
+creased risk of in-hospital death were an age greater than 65 years (mortality of 
+10.0%, vs. 4.9% among those ≤65 years of age; odds ratio, 1.93; 95% confidence 
+interval [CI], 1.60 to 2.41), coronary artery disease (10.2%, vs. 5.2% among those 
+without disease; odds ratio, 2.70; 95% CI, 2.08 to 3.51), heart failure (15.3%, vs. 
+5.6% among those without heart failure; odds ratio, 2.48; 95% CI, 1.62 to 3.79), 
+cardiac arrhythmia (11.5%, vs. 5.6% among those without arrhythmia; odds ratio, 
+1.95; 95% CI, 1.33 to 2.86), chronic obstructive pulmonary disease (14.2%, vs. 
+5.6% among those without disease; odds ratio, 2.96; 95% CI, 2.00 to 4.40), and 
+current smoking (9.4%, vs. 5.6% among former smokers or nonsmokers; odds 
+ratio, 1.79; 95% CI, 1.29 to 2.47). No increased risk of in-hospital death was found 
+to be associated with the use of ACE inhibitors (2.1% vs. 6.1%; odds ratio, 0.33; 
+95% CI, 0.20 to 0.54) or the use of ARBs (6.8% vs. 5.7%; odds ratio, 1.23; 95% CI, 
+0.87 to 1.74).
+CONCLUSIONS
+Our study confirmed previous observations suggesting that underlying cardiovascu-
+lar disease is associated with an increased risk of in-hospital death among patients 
+hospitalized with Covid-19. Our results did not confirm previous concerns regarding 
+a potential harmful association of ACE inhibitors or ARBs with in-hospital death in 
+this clinical context. (Funded by the William Harvey Distinguished Chair in Ad-
+vanced Cardiovascular Medicine at Brigham and Women’s Hospital.)
+n engl j med    nejm.org  1
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved.  The new england journal of medicine
+As  the  coronavirus  disease  2019  the American Heart Association, the American 
+(Covid-19) pandemic has spread around  College of Cardiology, the Heart Failure Society 
+the globe, there has been growing recog- of America, and the Council on Hypertension of 
+nition that persons with underlying increased  the European Society of Cardiology, have urged 
+cardiovascular risk may be disproportionately  that these important medications should not be 
+affected.1-3 Several studies of case series have  discontinued in the absence of clear clinical evi-
+noted cardiac arrhythmias, cardiomyopathy, and  dence of harm.14,15 We therefore undertook a study 
+cardiac arrest as terminal events in patients with  to investigate the relationship between underlying 
+Covid-19.1-4 Higher incidences of cardiac arrhyth- cardiovascular disease and Covid-19 outcomes and 
+mias, acute coronary syndromes, and heart fail- to evaluate the association between cardiovascular 
+ure–related events have also been reported during  drug therapy and mortality in this illness.
+seasonal influenza outbreaks, which suggests that 
+acute respiratory infections may result in activa-
+Methods
+tion of coagulation pathways, proinflammatory 
+effects, and endothelial cell dysfunction.5 In ad- Data Source
+dition, however, concern has been expressed that  We analyzed deidentified data from the Surgical 
+medical therapy for cardiovascular disease might  Outcomes Collaborative (Surgisphere), an interna-
+specifically contribute to the severity of illness  tional registry. Our analysis included data from 
+in patients with Covid-19.6,7 169 hospitals located in 11 countries in Asia, 
+Severe acute respiratory syndrome coronavirus  Europe, and North America. The collaborative uses 
+2 (SARS-CoV-2), the causative agent of Covid-19,  automated extraction of data from inpatient and 
+has been shown to establish itself in the host  outpatient electronic health records, supply-chain 
+through the use of angiotensin-converting en- databases, and financial records, combined with 
+zyme 2 (ACE2) as its cellular receptor.8 ACE2 is  point-of-care data entry for procedures. A manual 
+a membrane-bound monocarboxypeptidase found  data-entry process is used for quality assurance 
+ubiquitously in humans and expressed predomi- and validation. Data are collected through auto-
+nantly in heart, intestine, kidney, and pulmonary  mated data transfers that capture information 
+alveolar (type II) cells.7,9 Entry of SARS-CoV-2  from each health care entity at regular intervals 
+into human cells is facilitated by the interaction  on a prospective, ongoing basis. Verifiable source 
+of a receptor-binding domain in its viral spike  documentation for the data elements includes elec-
+glycoprotein ectodomain with the ACE2 receptor.10 tronic inpatient and outpatient medical records.
+ACE2 is counterregulatory to the activity of  Data acquisition is facilitated through the use 
+angiotensin II generated through ACE1 and is  of a standardized Health Level Seven–compliant 
+protective against detrimental activation of the  data dictionary. After this data dictionary is har-
+renin–angiotensin–aldosterone system. Angioten- monized with data from electronic health records, 
+sin II is catalyzed by ACE2 to angiotensin-(1–7),  the majority of the data acquisition is completed 
+which exerts vasodilatory, antiinflammatory, an- with automated interfaces. The collected data 
+tifibrotic, and antigrowth effects.11 It has been  sample from each health care entity is validated 
+suggested that ACE inhibitors and angiotensin- against financial records and external databas-
+receptor blockers (ARBs) may increase the expres- es. All protected health information is stripped 
+sion of ACE2, which has been shown in the heart  from each record before storage in a cloud-based 
+in rats,12 and thereby may confer a predisposition  data warehouse. The collaborative is compliant 
+to more severe infection and adverse outcomes  with the Agency for Healthcare Research and 
+during Covid-19.6,7 Others have suggested that  Quality guidelines for registries and the Food and 
+ACE inhibitors may counter the antiinflammatory  Drug Administration guidance on real-world evi-
+effects of ACE2. However, in vitro studies have  dence. The collection and analysis of data in the 
+not shown direct inhibitory activity of ACE in- registry have been deemed exempt from ethics 
+hibitors against ACE2 function.9,13 review.
+Despite these uncertainties, some have rec-
+ommended cessation of treatment with ACE in- Data Collection
+hibitors and ARBs in patients with Covid-19.6  The collaborative registry was used as a resource 
+However, several scientific societies, including  to analyze data from all patients with polymerase-
+2 n engl j med    nejm.org 
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved.  Cardiovascular Disease in Covid-19
+chain-reaction (PCR)–proven Covid-19 who were  All the authors reviewed the manuscript and 
+admitted to the hospital between December 20,  vouch for the accuracy and completeness of the 
+2019, and March 15, 2020, and who were re- data provided.
+corded in the registry as having either died in 
+the hospital or survived to hospital discharge as  Statistical Analysis
+of March 28, 2020. Data from the registry can be  The primary analysis was an evaluation of the 
+analyzed only after a patient’s hospitalization is  relationship of preexisting cardiovascular dis-
+complete, and therefore our sample did not in- ease and drug therapy with the end point of in-
+clude patients who were admitted to the hospital  hospital death while controlling for confound-
+during this time window but were still hospital- ers, including demographic characteristics and 
+ized at the end of it. Our sample also may have  coexisting conditions. Categorical variables are 
+excluded some patients who had died or were  shown as frequencies and percentages, and con-
+discharged by March 28 but whose discharge  tinuous variables as means and standard devia-
+status had not yet been recorded by the hospital. tions. Independent sample t-tests were complet-
+The presence in the record of a positive labo- ed, and point differences with 95% confidence 
+ratory finding confirming SARS-CoV-2 infection  intervals are reported for all comparisons be-
+was used for classifying a patient as positive for  tween variables. Multiple imputation for missing 
+Covid-19. A positive laboratory finding for SARS- values was not possible because for disease and 
+CoV-2 was defined as a positive result on high- drug variables there were no codes to indicate 
+throughput sequencing or real-time reverse-tran- that data were missing; if the patient’s elec-
+scriptase–PCR  (RT-PCR)  assay  of  nasal  or  tronic health record did not include information 
+pharyngeal swab specimens. At each site, Covid-19  on a clinical characteristic, such as hyperlipid-
+was diagnosed on the basis of the World Health  emia or the use of beta-blockers, it was assumed 
+Organization guidance.16 Patients who did not  that that characteristic was not present.
+undergo testing, had no record of testing in the  A  multivariable  logistic-regression  analysis 
+collaborative database, or had a negative test  was performed to ascertain the effects of age, 
+were not included in the present study. For this  race, coexisting conditions (coronary artery dis-
+study, only one positive test was necessary for  ease, congestive heart failure, cardiac arrhyth-
+the patient to be included in the analysis. mia, diabetes mellitus, COPD, current smoking, 
+Data on patients’ demographic characteris- former smoking, hypertension, immunocompro-
+tics, coexisting conditions (based on codes from  mised state, and hyperlipidemia), hospital loca-
+the International Classification of Diseases, 10th Revi- tion (according to country), and medications 
+sion, Clinical Modification), and cardiovascular drug  (ACE inhibitors, ARBs, beta-blockers, antiplate-
+therapy were included in this analysis. Clinical  let agents, statins, insulin, and oral hypoglyce-
+information included age, sex, continent of ori- mic  agents)  on  the  likelihood  of  in-hospital 
+gin,  and underlying coexisting conditions as  death. Linearity of the continuous variables with 
+noted in either the inpatient or the outpatient  respect to the logit of the dependent variable was 
+electronic health record. Coexisting conditions  confirmed. Odds ratios and corresponding 95% 
+included chronic obstructive pulmonary disease  confidence intervals were calculated. Separate 
+(COPD), an immunosuppressed condition (glu- age- and sex-adjusted analyses were also per-
+cocorticoid use, a preexisting immunologic con- formed. The 95% confidence intervals have not 
+dition,  or  ongoing  chemotherapy  in  patients  been adjusted for multiple testing and should 
+with cancer), current or remote history of smok- not be used to infer definitive effects.
+ing, and a history of hypertension, diabetes mel- On the basis of the results of the initial 
+litus, hyperlipidemia, or underlying cardiovascu- analyses, additional analyses were performed to 
+lar disease (including coronary artery disease,  examine the robustness of the estimates initially 
+heart failure, and cardiac arrhythmia). Cardio- obtained. Analyses according to continent of ori-
+vascular drug therapy recorded at the time of  gin as well as country classification (as either high 
+hospital admission was also included, including  income or low–middle income) were performed. 
+any antiplatelet therapy, use of insulin or other  A tipping-point analysis (an analysis that shows 
+hypoglycemic agents, beta-blockers, statins, ARBs,  the effect size and prevalence of an unmeasured 
+and ACE inhibitors. confounder that could shift the upper boundary 
+n engl j med    nejm.org  3
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved.  The new england journal of medicine
+of the confidence interval toward null) was per- of the patients), ARBs (6.2%), statins (9.7%), 
+formed. In addition, we sought to determine  beta-blockers (5.9%), and antiplatelet agents (3.3%). 
+whether the effect of ACE inhibitors and statins  Insulin was used in 3.4% of the patients, and 
+noted in the overall study was also seen when  other hypoglycemic agents were used in 9.6%. 
+the analysis was confined to a subgroup of pa- The mean length of hospital stay was 10.7±2.7 
+tients who might have an indication for these  days, with an overall in-hospital mortality of 
+agents. Thus, the association of ACE inhibitor  5.8% (515 of 8910 patients) in this population of 
+use with in-hospital death was examined in the  patients with completed outcomes. Of the pa-
+subgroup of patients with hypertension, and the  tients who had been admitted to an intensive care 
+association of statin use with in-hospital death  unit (ICU) at any time during their hospitaliza-
+was examined in the subgroup of patients with  tion, 24.7% died, as compared with 4.0% of the 
+hyperlipidemia, with the use of age- and sex- patients who had not been admitted to an ICU.
+adjusted logistic-regression analysis. All statistical 
+analyses were performed with R software, version  Analysis of Survivors as Compared  
+3.6.3 (R Foundation for Statistical Computing),  with Nonsurvivors
+and SPSS Statistics software, version 26 (IBM). Table 1 shows the distribution of demographic 
+characteristics and coexisting conditions among 
+survivors and nonsurvivors, along with the be-
+Results
+tween-group differences and 95% confidence in-
+Patients tervals. Nonsurvivors were older, more likely to be 
+Our study population included 8910 hospitalized  white, and more often men, and they had a 
+patients from 169 hospitals who had Covid-19,  greater prevalence of diabetes mellitus, hyperlip-
+who were admitted between December 20, 2019,  idemia, coronary artery disease, heart failure, 
+and March 15, 2020, and who completed their  and cardiac arrhythmias. Patients who died were 
+hospital course (discharged alive or died) by March  also more likely to have had COPD and a history 
+28, 2020. Patients who were hospitalized during  of current smoking. Among medications, ACE in-
+this time without a completed course could not  hibitors and statins were more commonly used by 
+be included in the analysis. Our sample was  survivors than by nonsurvivors (Table 2), whereas 
+made up of 1536 patients (17.2%) from North  no association between survival and the use of 
+America, 5755 (64.6%) from Europe, and 1619  ARBs was found. The length of hospital stay dif-
+(18.2%) from Asia (details of the study popula- fered between survivors and nonsurvivors (10.5±2.5 
+tion according to continent, country, and num- days vs. 7.5±2.8 days). When the data were ana-
+ber of hospitals are provided in Table S1 in the  lyzed according to age decile, continent, or in-
+Supplementary Appendix, available with the full  come category of the country in which the hos-
+text of this article at NEJM.org). The mean (±SD)  pital was located (high income or low–middle 
+age was 49±16 years (16.5% of the patients were  income), the results were similar (Fig. S1 and 
+>65 years of age), 40.0% of the patients were  Tables S2 and S3).
+women, 63.5% were white, 7.9% were black, 6.3% 
+were Hispanic, and 19.3% were Asian. Multivariable Logistic-Regression Analysis
+With respect to cardiovascular risk factors,  A multivariable logistic-regression model was 
+30.5% of the patients had hyperlipidemia, 26.3%  developed. Independent predictors of in-hospital 
+had hypertension, 14.3% had diabetes mellitus,  death and their corresponding odds ratios and 
+16.8% were former smokers, and 5.5% were cur- 95% confidence intervals are shown in Figure 1. 
+rent smokers. Preexisting cardiovascular disease  An age greater than 65 years, coronary artery 
+in this sample included coronary artery disease  disease, congestive heart failure, cardiac arrhyth-
+(present in 11.3% of the patients), a history of con- mia, COPD, and current smoking were associat-
+gestive heart failure (2.1%), and a history of cardiac  ed with a higher risk of in-hospital death. Fe-
+arrhythmia  (3.4%).  Other  coexisting  conditions  male sex, the use of ACE inhibitors, and the use 
+included COPD (in 2.5% of the patients) and an  of statins were associated with a better chance 
+underlying immunosuppressed condition (2.8%).  of survival to hospital discharge, with no associa-
+Medical therapy included ACE inhibitors (8.6%  tion found for the use of ARBs. For female sex, 
+4 n engl j med    nejm.org 
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved.  Cardiovascular Disease in Covid-19
+Table 1. Demographic Characteristics and Coexisting Conditions among Survivors and Nonsurvivors of Covid-19.*
+Survivors  Nonsurvivors 
+Characteristic or Condition (N = 8395) (N = 515) Difference (95% CI)†
+Age — yr 48.7±16.6 55.8±15.1 −7.1 (−8.4 to −5.7)
+Age >65 yr — no. (%) 1327 (15.8) 147 (28.5) −12.7 (−16.0 to −9.4)
+Female sex — no. (%) 3392 (40.4) 179 (34.8) 5.6 (1.3 to 10.0)
+Race or ethnic group — no. (%)‡
+White 5306 (63.2) 351 (68.2) −5.0 (−9.1 to −0.8)
+Black 672 (8.0) 34 (6.6) 1.4 (−0.8 to 3.6)
+Hispanic 529 (6.3) 32 (6.2) 0.1 (−2.0 to 2.3)
+Asian 1637 (19.5) 84 (16.3) 3.2 (−0.2 to 6.5)
+Native American 34 (0.4) 1 (0.2) 0.2 (−0.3 to 0.8)
+Other 219 (2.6) 13 (2.5) 0.1 (−1.4 to 1.4)
+Coexisting conditions — no. (%)
+Coronary artery disease 907 (10.8) 103 (20.0) −9.2 (−12.8 to −5.7)
+Congestive heart failure 160 (1.9) 29 (5.6) −3.7 (−5.8 to −1.8)
+Cardiac arrhythmia 269 (3.2) 35 (6.8) −3.6 (−5.8 to −1.4)
+Diabetes mellitus 1175 (14.0) 97 (18.8) −4.8 (−8.3 to −1.3)
+Hypertension 2216 (26.4) 130 (25.2) 1.2 (−2.8 to 5.1)
+Hyperlipidemia 2535 (30.2) 180 (35.0) −4.8 (−9.0 to −0.5)
+COPD 193 (2.3) 32 (6.2) −3.9 (−6.1 to −1.8)
+Current smoker 445 (5.3) 46 (8.9) −3.6 (−6.2 to −1.1)
+Former smoker 1410 (16.8) 83 (16.1) 0.7 (−2.6 to 4.0)
+Immunosuppressed condition 227 (2.7) 22 (4.3) −1.6 (−3.4 to 0.2)
+*  Plus–minus values are means ±SD. The 95% confidence intervals (CIs) have not been adjusted for multiple testing and 
+should not be used to infer definitive effects. COPD denotes chronic obstructive pulmonary disease, and Covid-19 coro-
+navirus disease 2019.
+†  For mean age, the difference is given in years; for all other characteristics, the difference is given in percentage points.
+‡  Race and ethnic group were reported by the patient.
+the odds ratio for dying in the hospital was 0.79  Table 2. Cardiovascular Drug Therapy at Hospitalization among Survivors  
+(95% confidence interval [CI], 0.65 to 0.95); for  and Nonsurvivors of Covid-19.*
+ACE inhibitor use, the odds ratio was 0.33 (95% 
+Survivors  Nonsurvivors 
+CI, 0.20 to 0.54); and for statin use, the odds 
+Drug Class (N = 8395) (N = 515) Difference (95% CI)
+ratio was 0.35 (95% CI, 0.24 to 0.52). For ARB 
+number (percent) percentage points
+use, the odds ratio was 1.23 (95% CI, 0.87 to 
+1.74). The presence or absence of an immuno- ACE inhibitor 754 (9.0) 16 (3.1) 5.9 (4.3 to 7.5)
+suppressed condition, the race or ethnic group,  ARB 518 (6.2) 38 (7.4) −1.2 (−3.5 to 1.1)
+and the presence or absence of hyperlipidemia  Beta-blocker 497 (5.9) 28 (5.4) 0.5 (−1.6 to 2.6)
+or diabetes mellitus were not independent pre- Antiplatelet 282 (3.4) 13 (2.5) 0.8 (−0.6 to 2.2)
+dictors of death in the hospital. The analyses  Statin 824 (9.8) 36 (7.0) 2.8 (0.5 to 5.1)
+according to continent and according to the in- Insulin 279 (3.3) 23 (4.5) −1.2 (−3.0 to 0.7)
+come category of the country (high or low–middle)  Other hypoglycemic  792 (9.4) 59 (11.5) −2.1 (−4.9 to 0.8)
+agent
+were consistent with the overall results (Tables 
+S4 and S5). Data from the age- and sex-adjusted 
+*  The 95% confidence intervals have not been adjusted for multiple testing 
+multivariable  logistic-regression  analyses  are  and should not be used to infer definitive effects. ACE denotes angiotensin-
+shown in Table S6. converting enzyme, and ARB angiotensin-receptor blocker.
+n engl j med    nejm.org  5
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved.  The new england journal of medicine
+Additional Analyses In viral infections such as influenza, older 
+In the tipping-point analysis to assess the poten- age is associated with an increased risk of car-
+tial effect of an unmeasured confounder, it was  diovascular events and death.5 In the 2003 epi-
+estimated that a hypothetical unobserved binary  demic  of  severe  acute  respiratory  syndrome 
+confounder with a prevalence of 10% in the study  (SARS,  caused  by  SARS-CoV-1  infection),  sex 
+population would need to have an odds ratio of  differences in the risk of death similar to those 
+at least 10 in order for the observed associations  we observed were noted.17 Women have stronger 
+for either ACE inhibitors or statins to have 95%  innate and adaptive immunity and greater resis-
+confidence intervals crossing the odds ratio  tance to viral infections than men.18 In animal 
+boundary of 1.0 (Table S7). We also separately  models of SARS-CoV-1 infection, higher suscep-
+examined the interaction of ACE inhibitor use  tibility of male mice to SARS-CoV-1 and greater 
+with mortality in the subgroup with hyperten- accumulation of macrophages and neutrophils 
+sion and the interaction of statin use with mor- in the lungs have been described.19 Ovariectomy 
+tality in the subgroup with hyperlipidemia. These  or the use of estrogen-receptor antagonists 
+analyses, shown in Table S8, are consistent with  increased mortality from SARS-CoV-1 infection 
+the results of the primary analysis. in female animals. Furthermore, the difference in 
+risk between the sexes increased with advancing 
+age.19 These findings may support the observa-
+Discussion
+tion in our investigation that suggested an as-
+Our investigation confirms previous reports of  sociation between survival and female sex, inde-
+the independent relationship of older age, under- pendent of older age.
+lying cardiovascular disease (coronary artery dis- Infection with SARS-CoV-2 is a mild disease 
+ease, heart failure, and cardiac arrhythmias), cur- in most people, but in some the disease pro-
+rent smoking, and COPD with death in Covid-19.  gresses to a severe respiratory illness character-
+Our results also suggest that women are propor- ized by a hyperinflammatory syndrome, multi-
+tionately more likely than men to survive the  organ dysfunction, and death.20 In the lung, the 
+infection. Neither harmful nor beneficial asso- viral spike glycoprotein of SARS-CoV-2 interacts 
+ciations were noted for antiplatelet therapy, beta- with cell-surface ACE2, and the virus is internal-
+blockers, or hypoglycemic therapy. It is important  ized by endocytosis. The endocytic event up-
+to note that we were not able to confirm previous  regulates the activity of ADAM metallopeptidase 
+concerns regarding a potential harmful associa- domain 17 (ADAM17), which cleaves ACE2 from 
+tion of either ACE inhibitors or ARBs with in- the cell membrane, resulting in a loss of ACE2-
+hospital mortality in this clinical context. mediated protection against the effects of activa-
+Risk Factor Risk Factor Present Risk Factor Absent Odds Ratio (95% CI)
+no. of patients who died/total no. (%)
+>65 yr of age    147/1474 (10.0) 368/7436 (4.9) 1.93 (1.60–2.41)
+Female sex  179/3571 (5.0) 336/5339 (6.3) 0.79 (0.65–0.95)
+Coronary artery disease    103/1010 (10.2) 412/7900 (5.2) 2.70 (2.08–3.51)
+Congestive heart failure   29/189 (15.3) 486/8721 (5.6) 2.48 (1.62–3.79)
+Arrhythmia   35/304 (11.5) 480/8606 (5.6) 1.95 (1.33–2.86)
+COPD   32/225 (14.2) 483/8685 (5.6) 2.96 (2.00–4.40)
+Current smoker 46/491 (9.4) 469/8419 (5.6) 1.79 (1.29–2.47)
+Receiving ACE inhibitor 16/770 (2.1) 499/8140 (6.1) 0.33 (0.20–0.54)
+Receiving ARB 38/556 (6.8) 477/8354 (5.7) 1.23 (0.87–1.74)
+Receiving statin 36/860 (4.2) 479/8050 (6.0) 0.35 (0.24–0.52)
+0.1 1.0 10.0
+Figure 1. Independent Predictors of In-Hospital Death from Multivariable Logistic-Regression Analysis.
+Numbers and percentages of patients with each risk factor who died (risk factor present) and of patients without each risk factor who 
+died (risk factor absent) are shown. The 95% confidence intervals (CIs) of the odds ratios have not been adjusted for multiple testing 
+and should not be used to infer definitive effects. ACE denotes angiotensin-converting enzyme, ARB angiotensin-receptor blocker, and 
+COPD chronic obstructive pulmonary disease.
+6 n engl j med    nejm.org 
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved.  Cardiovascular Disease in Covid-19
+tion of the tissue renin–angiotensin–aldosterone  apy and survival should not be inferred. These 
+system while mediating the release of proin- data also offer no information concerning the 
+flammatory cytokines into the circulation.21 The  potential effect of initiation of ACE inhibitor or 
+stress of critical illness and inflammation may  statin therapy in patients with Covid-19 who do 
+unite in destabilizing preexisting cardiovascular  not  have  an  appropriate  indication  for  these 
+illness. Vascular endothelial cell dysfunction, in- medications. Randomized clinical trials evaluat-
+flammation-associated  myocardial  depression,  ing the role of ACE inhibitors and statins will be 
+stress cardiomyopathy, direct viral infection of  necessary before any conclusion can be reached 
+the heart and its vessels, or the host response may  regarding a potential benefit of these agents in 
+cause or worsen heart failure, demand-related isch- patients with Covid-19.
+emia, and arrhythmias.22 These factors may under- In this multinational observational study in-
+lie the observed associations between cardiovascu- volving patients hospitalized with Covid-19, we 
+lar disease and death in Covid-19. confirmed previous observations suggesting that 
+In our analyses, use of either ACE inhibitors  underlying cardiovascular disease is independently 
+or statins was associated with better survival  associated with an increased risk of in-hospital 
+among patients with Covid-19. However, these as- death. We were not able to confirm previous con-
+sociations should be considered with extreme cau- cerns regarding a potential harmful association 
+tion. Because our study was not a randomized,  of ACE inhibitors or ARBs with in-hospital mor-
+controlled trial, we cannot exclude the possibility  tality in this clinical context.
+of confounding. In addition, we examined rela-
+tionships between many variables and in-hospi-
+Supported by the William Harvey Distinguished Chair in 
+tal death, and no primary hypothesis was pre- Advanced Cardiovascular Medicine at Brigham and Women’s 
+specified; these factors increased the probability  Hospital. The development and maintenance of the Surgical 
+Outcomes Collaborative database was funded by Surgisphere.
+of chance associations being found. Therefore, a 
+Disclosure forms provided by the authors are available with 
+cause-and-effect relationship between drug ther- the full text of this article at NEJM.org.
+References
+1.  Ruan Q, Yang K, Wang W, Jiang L,  putative SARS-CoV-2 receptor ACE2 in hu- angiotensin-converting  enzyme  inhibi-
+Song J. Clinical predictors of mortality  man hearts. Eur Heart J 2020 April 15  tors and angiotensin receptor blockers: 
+due to COVID-19 based on an analysis of  (Epub ahead of print). what is the evidence? JAMA 2020 March 
+data of 150 patients from Wuhan, China.  8.  Hoffmann M, Kleine-Weber H, Schro- 24 (Epub ahead of print).
+Intensive Care Med 2020 March 3 (Epub  eder S, et al. SARS-CoV-2 cell entry de- 14. American  College  of  Cardiology. 
+ahead of print). pends on ACE2 and TMPRSS2 and is  HFSA/ACC/AHA  statement  addresses 
+2.  Shi S, Qin M, Shen B, et al. Associa- blocked by a clinically proven protease  concerns re: using RAAS antagonists in 
+tion of cardiac injury with mortality in  inhibitor. Cell 2020; 181(2): 271.e8-280.e8. COVID-19. March 17, 2020 (https://www 
+hospitalized patients with COVID-19 in  9.  Rice GI, Thomas DA, Grant PJ, Turner  .acc .org/ latest - in - cardiology/ articles/ 
+Wuhan, China. JAMA Cardiol 2020 March  AJ, Hooper NM. Evaluation of angioten- 2020/ 03/ 17/ 08/ 59/ hfsa - acc - aha - statement 
+25 (Epub ahead of print). sin-converting enzyme (ACE), its homo- -a ddresses- c oncerns- r e- u sing- r aas 
+3.  Guo T, Fan Y, Chen M, et al. Cardio- logue ACE2 and neprilysin in angiotensin  - antagonists - in - covid - 19).
+vascular implications of fatal outcomes of  peptide metabolism. Biochem J 2004; 383:  15. European Society of Cardiology. Posi-
+patients with coronavirus disease 2019  45-51. tion statement of the ESC Council on Hy-
+(COVID-19). JAMA Cardiol 2020 March 27  10. Walls AC, Park YJ, Tortorici MA, Wall  pertension on ACE-inhibitors and angio-
+(Epub ahead of print). A, McGuire AT, Veesler D. Structure,  tensin receptor blockers. March 13, 2020 
+4.  Arentz M, Yim E, Klaff L, et al. Char- function, and antigenicity of the SARS- (https://www .escardio .org/ Councils/ 
+acteristics and outcomes of 21 critically ill  CoV-2  spike  glycoprotein.  Cell  2020;  Council - on - Hypertension - (CHT)/ News/ 
+patients with COVID-19 in Washington  181(2): 281.e6-292.e6. position - statement - of - the - esc - council - on 
+State. JAMA 2020 March 19 (Epub ahead  11. Li XC, Zhang J, Zhuo JL. The vasopro- - hypertension - on - ace - inhibitors - and - ang).
+of print). tective axes of the renin-angiotensin sys- 16. World Health Organization. Clinical 
+5.  Nguyen JL, Yang W, Ito K, Matte TD,  tem: physiological relevance and thera- management of severe acute respiratory 
+Shaman J, Kinney PL. Seasonal influenza  peutic  implications  in  cardiovascular,  infection (SARI) when COVID-19 disease 
+infections  and  cardiovascular  disease  hypertensive and kidney diseases. Phar- is suspected: interim guidance. March 13, 
+mortality. JAMA Cardiol 2016; 1: 274-81. macol Res 2017; 125: 21-38. 2020  (https://www .who .int/ docs/ default 
+6.  Fang L, Karakiulakis G, Roth M. Are  12. Ferrario CM, Jessup J, Chappell MC, et  - source/ coronaviruse/ clinical 
+patients with hypertension and diabetes  al. Effect of angiotensin-converting en- -m  anagement- o f- n ovel- c ov. pdf).
+mellitus at increased risk for COVID-19  zyme inhibition and angiotensin II recep- 17. Karlberg J, Chong DSY, Lai WYY. Do 
+infection? Lancet Respir Med 2020; 8(4):  tor blockers on cardiac angiotensin-con- men have a higher case fatality rate of se-
+e21. verting enzyme 2. Circulation 2005; 111:  vere  acute  respiratory  syndrome  than 
+7.  Nicin L, Abplanalp WT, Mellentin H,  2605-10. women do? Am J Epidemiol 2004; 159: 229-
+et al. Cell type-specific expression of the  13. Patel AB, Verma A. COVID-19 and  31.
+n engl j med    nejm.org  7
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved.  The new england journal of medicine
+18. Klein SL, Flanagan KL. Sex differenc- navirus infection. J Immunol 2017; 198:  giotensin converting enzyme 2: a double-
+es in immune responses. Nat Rev Immu- 4046-53. edged sword. Circulation 2020 March 26 
+nol 2016; 16: 626-38. 20. Siddiqi HK, Mehra MR. COVID-19 ill- (Epub ahead of print).
+19. Channappanavar R, Fett C, Mack M,  ness in native and immunosuppressed  22. Mehra MR, Ruschitzka F. COVID-19 
+Ten Eyck PP, Meyerholz DK, Perlman S.  states: a clinical-therapeutic staging propos- illness and heart failure: a missing link? 
+Sex-based differences in susceptibility to  al. J Heart Lung Transplant 2020; 39: 405-7. JACC Heart Fail (in press).
+severe acute respiratory syndrome coro- 21. Wang K, Gheblawi M, Oudit GY. An- Copyright © 2020 Massachusetts Medical Society.
+8 n engl j med    nejm.org 
+The New England Journal of Medicine 
+Downloaded from nejm.org on May 18, 2020. For personal use only. No other uses without permission. 
+ Copyright © 2020 Massachusetts Medical Society. All rights reserved. 

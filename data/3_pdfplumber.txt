@@ -1,0 +1,510 @@
+ Epidemiology and Infection Characteristics of disease progress in patients
+with coronavirus disease 2019 in Wuhan, China
+cambridge.org/hyg
+Mengyao Ji1,*, Lei Yuan2,*, Wei Shen3,*, Junwei Lv3,*, Yong Li4,*, Ming Li2,
+Xuefang Lu5, Lanhua Hu5 and Weiguo Dong1
+Original Paper
+1DepartmentofGastroenterology,RenminHospitalofWuhanUniversity,Wuhan,Hubei,China;2Departmentof
+*MengyaoJi,LeiYuan,WeiShen,JunweiLv InformationCenter,RenminHospitalofWuhanUniversity,Wuhan,Hubei,China;3ShanghaiKeyLaboratoryof
+andLiYongcontributedequallytothispaper. ArtificialIntelligenceforMedicalImageandKnowledgeGraph;4DepartmentofRadiology,SuiningCentral
+Hospital,Suining,Sichuan,Chinaand5DepartmentofRadiology,RenminHospitalofWuhanUniversity,Wuhan,
+Citethisarticle:JiM,YuanL,ShenW,LvJ,Li
+Y,LiM,LuX,HuL,DongW(2020). Hubei,China
+Characteristicsofdiseaseprogressinpatients
+withcoronavirusdisease2019inWuhan, Abstract
+China.EpidemiologyandInfection148,e94,
+1–10.https://doi.org/10.1017/ Coronavirus disease 2019 (COVID-19) patients were classified into four clinical stages
+S0950268820000977 (uncomplicated illness, mild, severe and critical pneumonia) depending on disease severity.
+We aim to investigate the corresponding clinical, radiological and laboratory characteristics
+Received:2March2020
+betweendifferentclinicalstages.Aretrospective,single-centrestudyof101confirmedpatients
+Revised:29April2020
+withCOVID-19atRenminHospitalofWuhanUniversityfrom2Januaryto28January2020
+Accepted:1May2020
+was enrolled; follow-up endpoint was on 8 February 2020. Clinical data were collected and
+Keywords: compared during the course of illness. The median age of the 101 patients was 51.0 years
+Clinicalstage;COVID-19;Diseaseprogress;
+and33.6%weremedicalstaff.Fever(68%),cough(50%)andfatigue(23%)arethemostcom-
+SARS-CoV-2
+monsymptoms.About26%patientsunderwentthemechanicalventilationand 98%patients
+Authorforcorrespondence: were treated with antibiotics. Thirty-seven per cent patients were cured and 11 died. On
+WeiguoDong, admission,thenumberofpatientswithuncomplicatedillness,mild,severeandcriticalpneu-
+E-mail:weiguodong_66@163.com monia were 2 [2%], 86 [85%], 11 [11%] and 2 [2%]. Forty-four of the 86 mild pneumonia
+progressed to severe illness within 4 days, with nine patients worsened due to critical pneu-
+moniawithin 4 days. Two of the 11 severe patients improved to mild condition while three
+others deteriorated. Significant differences were observed among groups of different clinical
+stages in numbers of influenced pulmonary segments (6 vs. 12 vs. 17, P<0.001). A signifi-
+cantlyupwardtrendwaswitnessedinground-glassopacitiesoverlappedwithstripedshadows
+(33% vs. 42% vs. 55% vs. 80%, P<0.001), while pure ground-glass opacities gradually
+decreased as disease progressed (45% vs. 35% vs. 24% vs. 13%, P<0.001) within 12 days.
+Lymphocytes, prealbumin and albumin showed a downtrend as disease progressed from
+mildtosevereorcriticalcondition,anuptrendwasfoundinwhitebloodcells,C-reactivepro-
+tein,neutrophilsandlactatedehydrogenase.TheproportionsofserumamyloidA>300mg/l
+in mild, severe and critical conditions were 18%, 46% and 71%, respectively.
+Introduction
+As the first cases of pneumonia of unknown origin were officially reported in China on 8
+December 2019, this disease has rapidly spread to many other regions within China and
+abroad [1]. As of 13 April 2020, over 1200000 confirmed COVID-19 patients have been
+documented worldwide.
+There are many similarities, indicated by the published literatures, between severe acute
+respiratorysyndrome coronavirus 2 (SARS-CoV-2) and SARS as well as MERS, such asthat
+they are all mainly transmitted through respiratory droplets, and their most common symp-
+tomisfever[1–3].YettheSARS-CoV-2wasalsofoundwithR0[4].Ithasmoreclinicalsymp-
+toms of dyspnoea while headaches and diarrhoea are rare [5]. As to radiological features,
+©TheAuthor(s),2020.Publishedby COVID-19 usually has abnormalities on chest computed tomography (CT), of which the
+CambridgeUniversityPress.ThisisanOpen most typical one is ground-glass opacity, and the lesions are generally multiple and located
+Accessarticle,distributedunderthetermsof in the posterioror peripheral lung [6]. Patients infected with SARS-CoV-2 normally develop
+theCreativeCommonsAttributionlicence symptomsin2−7daysafterinfectionwitharapiddiseaseprogress.Theyusuallydieofacute
+(http://creativecommons.org/licenses/by/4.0/),
+whichpermitsunrestrictedre-use, respiratorydistresssyndrome(ARDS)andmultipleorganfailurecausedbycytokinestorm[5].
+distribution,andreproductioninanymedium, DespitemanyreportsonSARS-CoV-2,fewstudiesfocusedondiseaseprogressanditisstill
+providedtheoriginalworkisproperlycited. unclear how clinical, radiological characteristics and laboratory indicators and their dynamic
+changesasdiseaseprogressedarerelatedtoprognosis.Inthisstudy,wecomprehensivelycol-
+lected the clinical, radiological characteristics and laboratory information of 101 confirmed
+COVID-19patientsinRenminHospitalofWuhanUniversityandaimedtoexploretheasso-
+ciation between prognosis and the variation trend of those indicators.
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 2 Mengyao Ji etal.
+Methods clinicalstagesasthediseaseprogressed.Werecordedalltheclinical
+classificationsforeveryselectedpatientandthetimeatwhichthe
+The study was approved by the Ethics Committee of the Wuhan
+classificationbeganorchangeofclassificationoccurred.Thetime
+University Renmin Hospital (ethics number: V1.0), and written
+(±2days)wasthenusedtomatchtheirlatestimagingandlabora-
+informedconsentwaswaived.Aretrospectivestudywasperformed
+toryinformationforeachclinicalstageofthepatients.
+on101laboratory-confirmedpatientswithSARS-CoV-2,whowere
+randomlyselectedfromalltheconfirmedpatientsfrom2January
+2020to28January2020,atWuhanUniversityRenminHospital, Statistical analysis
+one of the first hospitals designated by the Chinese government
+Clinical characteristics were described via means and standard
+to treat COVID-19, using isolation and airborne precautions
+deviations (for normally distributed variables) or interquartile
+(fit-tested N95 masks) for aerosol-generating immediately. The
+range (Median(IQR)) (for not normally distributed variables) or
+laboratory-confirmed patients were defined as positive results
+frequency and percentages (for categorical variables), and their
+from any one of the following specimens: respiratory secretions
+differences were then correspondingly compared by t test,
+obtained from bronchial alveolar lavage, tracheal aspirate, Mann−Whitney U test (or Kruskal−Wallis H test), Chi-square
+nasopharyngeal or oropharyngeal swabs. Clinical, imaging and test (or Fisher’s exact probability), respectively. Cochran
+laboratorydatawerecollectedandprivacymaskingwasperformed −Armitagetrendtestwasfurtherusedtocheckwhetheranupward
+indataanalysis.Thefollow-upendpointwason8February2020.
+ordownwardtrendexistsinordinaryvariables.AP-value<0.05was
+considered statistically significant. All analyses were performed
+using SAS 9.4(SAS Institute, Cary, NC,2017) while graphs were
+Datacollection
+plottedbyR-3.6.0.
+The demographic and epidemiological characteristics, laboratory
+findings as well as clinical diagnosis and treatment outcomes
+Results
+were extracted from electronic medical records. Several standar-
+dised data collection forms were designed first and relevant data Demographicandclinicalcharacteristicsofstudy participants
+were then correspondingly extracted by two experienced doctors The median age of the 101 patients was 51.0 years (IQR 37.0–
+and a third senior doctor would perform the final review to
+61.0), and 53 (52%) were female. Among them, 34 (34%) were
+ensure data quality. Laboratory indicators of blood routine test,
+medical staff and 47 (47%) had suspected nosocomial infections.
+blood coagulation and their medical reference ranges were col-
+More than half of the patients (51%) had coexisting disorders,
+lected. The presence of SARS-CoV-2 in respiratory specimens
+which mainly were hypertension (20%), cardiovascular or cere-
+was detected by real-time RT-PCR methods, issued by the
+brovasculardisease(14%),diabetes(13%)andmalignanttumours
+Chinese CDC [7]. All the thin-layer images were collected in
+(12%). None ofthe 101patientshad ahistoryof exposuretothe
+the format of Digital Imaging and Communications in
+WuhanHuananseafoodmarket.Thecommonsymptomsinclude
+Medicine (DICOM). Then the imaging signs and their features
+fever(68%),cough(50%),fatigue(23%),myalgia(16%)anddys-
+wereextractedusingadouble-blindmethod,bywhichtwointer-
+pnoea (14%). Mechanical ventilation, primarily nasal cannula/
+mediate radiologists in respiratory medicine (with more than 5
+oxygen mask (20 patients, 20%), was used in 26 patients (26%).
+years’ experience) would read and report the images independ-
+Almost all the patients (98%) were treated with antibiotics.
+ently and their results would finally be reviewed and confirmed
+While interferon, antiviral, gamma globulin and thymosin ther-
+by a senior doctor (engaged in imaging diagnosis for more than
+apy were initiated in 40 (40%), 85 (84%), 65 (64%) and 10
+15 years). Radiological findings such as lesions, lesion size (the
+(10%) patients, respectively. The median time from the initial
+longest diameter of the lesion) and radiological patterns were
+symptom, hospital admission to the laboratory-confirmed diag-
+extracted. In addition, to evaluate the lesion size accurately, a nosis were 7.0 days (IQR: 5.0–13.0) and 4.0 days (IQR: 2.0–7.0).
+diagnosissystemfornovelcoronaviruspneumoniabasedonarti-
+Overall, the person-times of uncomplicated illness, mild, severe
+ficialintelligence(AI),wasemployedtoanalyseCTimagesusing
+and critical pneumonia was there were 1, 88, 55 and 14 during
+CT value to measure volume ratio of pneumonia automatically,
+course of illness, respectively. As of 8 February 2020, more than
+which had been used at this hospital in early January [8–11].
+one-third (37, 37%) were cured and discharged, one half (53,
+52%)remainedhospitalised,respectively,while11(11%)patients
+died unfortunately, as shown in Table 1.
+Clinical staging
+Figure 1 depicted the flowchart of disease progress of 101
+The guidelines on COVID-19 treatment issued by the National patients.Onadmission,1,86,11and2ofthe101patientswerediag-
+HealthCommissionofthePeople’sRepublicofChinahaveclassi- nosedasuncomplicatedillness,mild,severe,andcriticalpneumo-
+fiedpatientsintofourtypes,includinguncomplicatedillness,mild, nia,respectively.Additionally,onewomandidnothaveaclinical
+severe and critical pneumonia [12]. Patients with uncomplicated stage due to pregnancy. During the course of illness, 44 (51%)
+illness have mild clinical symptoms but no signs of pneumonia mild patients progressed to severe condition within a median
+onchestimages,whilemildpneumoniahasfeverandrespiratory timeof4days(IQR:1–7),amongwhichninecases(10%)further
+symptoms as well as pneumonitis signs on radiographs. Severe worsened to critical pneumonia within 4 days (IQR: 3–8) from
+patientshaveatleastoneofthefollowing:(1)respiratorydistress, severe illness. While two of the 11 severe patients improved to
+respiratory rate (RR)⩾30 breaths/min; (2) finger oxygen satur- mildcondition,threeothersdeterioratedtocriticalcondition.
+ation⩽93% in a state of rest; (3) partial pressure of oxygen
+(PaO )/fraction of inspired oxygen (FiO ) ⩽300mmHg. Critical
+2 2 Radiological characteristics stratified by clinical stages
+pneumoniahasoneofrespiratoryfailurewithmechanicalventila-
+tion required, shock, otherorgans failure required ICU monitor- Radiological abnormalities were found in 121 CT scans.
+ing. It should be noted that each patient may have multiple The majority of abnormalities were presented with multiple
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 EpidemiologyandInfection 3
+Table1.Clinicalcharacteristicsof101patientswithCOVID-19
+Variables Total(N=101) Non-medicalstaff(N=67) Medicalstaff(N=34) Pvalue
+Age,years 51.0(37.0–61.0) 57.0(44.0–64.0) 34.0(30.0–42.0) <0.001***
+Sex 0.44
+Male 48(48%) 30(45%) 18(53%)
+Female 53(52%) 37(55%) 16(47%)
+Suspectednosocomialinfection 47(47%) 13(19%) 34(100%) <0.001***
+Coexistingdisorders 52(51%) 48(72%) 4(12%) <0.001***
+Diabetes 13(13%) 13(19%) 0(0%) 0.004a**
+Hypertension 20(20%) 19(28%) 1(3%) 0.002**
+Cardiovascularorcerebrovasculardisease 14(14%) 14(21%) 0(0%) 0.002a**
+Chronicobstructivepulmonarydisease 2(2%) 2(3%) 0(0%) 0.55a
+Malignanttumours 12(12%) 12(18%) 0(0%) 0.007a**
+Chronicliverdisease 6(6%) 5(7%) 1(3%) 0.66a
+Chronicrenaldisease 4(4%) 4(6%) 0(0%) 0.30a
+HistoryofexposuretotheWuhanseafoodmarket 0(0%) 0(0%) 0(0%) NA
+Smoking 5(5%) 4(6%) 1(3%) 0.66a
+Pregnancy 1(1%) 0(0%) 1(3%) 0.34a
+Existinginitialsymptoms 90(89%) 58(87%) 32(94%) 0.33a
+Fever 69(68%) 45(67%) 24(71%) 0.73
+Cough 50(50%) 27(40%) 23(68%) 0.009**
+Expectoration 20(20%) 14(20%) 6(18%) 0.70
+Fatigue 23(23%) 14(21%) 9(26%) 0.53
+Chestdistress 13(13%) 9(13%) 4(12%) 1a
+Vertigo 4(4%) 4(6%) 0(0%) 0.30a
+Myalgia 16(16%) 7(10%) 9(26%) 0.037*
+Headache 6(6%) 3(4%) 3(9%) 0.40a
+Diarrhoea 1(1%) 0(0%) 1(3%) 0.34a
+Dyspnoea 14(14%) 14(21%) 6(18%) 0.002a**
+Nausea 3(3%) 3(4%) 0(0%) 0.55a
+Timefrominitialsymptomstodiagnosis 7.0(5–13) 10.0(6–15) 5.5(2–7) <0.001***
+Timefromadmissiontodiagnosis 4.0(2–7) 6.0(3–10) 1.5(0–3) <0.001***
+Physicalexaminationonadmission
+Temperature,°C 36.8(36.5–37.2) 36.8(36.5–37.5) 36.8(36.6–37) 0.64
+Pulse,mean(S.D.) 84.0(13.0) 87.7(12.6) 76.9(10.5) <0.001***
+Respiratoryrate 19.0(18–20) 20.0(19–20) 19.0(18–19) <0.001***
+Systolicbloodpressure,mmHg 125.0(117–133) 125.0(113–138) 123.0(118–125) 0.30
+Diastolicbloodpressure,mmHg 75.0(69–81) 76.0(69–83) 75.0(69–78) 0.220
+Mechanicalventilation 26(26%) 24(36%) 2(6%) 0.001**
+Ventilatorytype 0.600a
+Nasalcannula/oxygenmask 20(80%) 18(78%) 2(100%)
+Non-invasiveventilationorhigh-ﬂownasalcannula 3(3%) 3(13%) 0(0%)
+Invasivemechanicalventilation 2(2%) 2(9%) 0(0%)
+Drugs
+Glucocorticoid 66(65%) 43(64%) 23(68%) 0.73
+(Continued)
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 4 Mengyao Ji etal.
+Table1.(Continued.)
+Variables Total(N=101) Non-medicalstaff(N=67) Medicalstaff(N=34) Pvalue
+Antibiotic 99(98%) 66(99%) 33(97%) 1a
+Interferon 40(40%) 10(15%) 30(88%) <0.001***
+Antiviraldrug 85(84%) 54(81%) 31(91%) 0.17
+Gammaglobulin 65(64%) 43(64%) 22(65%) 0.96
+Thymosin 10(10%) 7(10%) 3(9%) 1a
+Clinicalstages
+Uncomplicatedillness 1(1%) 0(0%) 1(3%) 0.34a
+Mild 88(87%) 57(85%) 31(91%) 0.53a
+Severe 55(54%) 45(67%) 10(29%) <0.001***
+Critical 14(14%) 14(21%) 0(0%) 0.002a**
+Outcome 0.044*
+Death 11(11%) 11(16%) 0(0)
+Hospitalisation 53(52%) 33(49%) 20(59%)
+Cured 37(37%) 23(34%) 14(41%)
+Note:Dataarepresentedasmedians(interquartileranges,IQR)andN(%).
+aPvaluewascalculatedusingFisher’sexactprobabilityinsteadofχ2test.
+*Pvalue<0.05,**Pvalue<0.01,***Pvalue<0.001.
+Fig.1.Flowchartofdiseaseprogressionof101patients.
+lesions (105, 87%), bilateral lungs affected (97, 80%). The most patterns(Fig.2d)andthreemixedpatterns(Fig.2e).Mostofthe
+common lesions located in the posterior basal segment of the cases (65%) were accompanied by peripheral vessels thickening,
+left lower lobe (LLL) (72%), followed by the posterior basal followed by air bronchogram (44%), mosaic signs (14%),
+segment of the right lower lobe (RLL) (67%), while the anterior pleural effusion (14%) and halo signs (13%). Significant
+basal segment of the RLL and the anterior segment of the left differences were observed in bilateral/left/right lungs of being
+upper lobe (LUL) were affected the least (36% and 40%). The influenced (P=0.07), multiple or single lesions (P=0.033),
+most common patterns on chest CT were pure ground-glass lesion size (P=0.003), numbers of influenced pulmonary
+opacity((44,36%),Fig.2a)andground-glassopacitiesoverlapped segments (P<0.001) and numbers of pulmonary segments with
+with striped shadows ((48, 40%), Fig. 2b). In addition, 18 cases striped shadows (P=0.017) among groups with different clinical
+showed pulmonary consolidation (Fig. 2c), four showed reticular stages (Table 2).
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 EpidemiologyandInfection 5
+Fig.2.TypicalradiologicalpatternsonchestCTimages.(a)pureground-glassopacity;(b)round-glassopacitiesoverlappedwithstripedshadows;(c)pulmonary
+consolidation;(d)reticularpatterns;(e)mixedpatternsand(f)others.TheillustrationdepictedasecondarytuberculosiscaseinfectedwithSARS-CoV-2.
+Radiological findings as disease progressed The most predominant spectrum of serum amyloid A was 5
+−300, >300 and >300mg/l in mild (60%), severe (46%), critical
+The average interval between the second, third and fourth CT
+(71%) conditions, respectively.
+examinationsandthefirsttimewas4,7and10days,respectively.
+Besides,singlelesiongraduallydevelopedtomultiple onesinthe
+diseaseprogression,withanincreasingtrend(P=0.05)inmedian
+Discussion
+affectedpulmonarysegments(7.0,9.0,10.5and12.0)(TableS1in
+Supplementary Appendix). In terms of radiological patterns, an Thisretrospectivestudy,toourbestknowledge,isthefirstreportto
+upwardtrendwasobservedinthenumbersofground-glass opa- the disease progression of patients with SARA-CoV-2. As of 28
+citiesoverlappedwithstripedshadows(33%,42%,55%and80%), January 2020, atotal of 101 confirmed COVID-19 patients were
+as shown in Table S1. Correspondingly, the percentage of pure enrolled in this study, and classified into four different groups
+ground-glass opacities presented with a decreasing trend (45%, (uncomplicated illness, mild, severe and critical pneumonia)
+35%, 24% and 13%) for the first time CT scans to the fourth according to the disease severity. Among these patients, 86 and
+time CT scans within 12 days as the disease progressed. 11patientswerediagnosedasmildandseverepneumonia,aswell
+Representative radiological findings during course of illness asoneuncomplicatedillnessandtwocriticalpneumoniaonadmis-
+could be found in Figure S1. sion.Themedianageofthesepatientswas51.0years(IQR37.0–
+61.0),34%weremedicalstaffand47%hassuspectednosocomial
+infections,thisiscausedbytherapidperson-to-persontransmis-
+sion of COVID-19 with less personal protection. Fever (68%),
+Laboratory parameters stratified by clinical stages
+cough(50%),fatigue(23%)andmyalgia(16%)arethemostsymp-
+Significant differences were observed among groups of different tomsonadmission.Fifty-onepercentpatientshavecomplications,
+clinical stages in lactate dehydrogenase (P=0.001), blood urea withhypertension(20%),cardiovascularorcerebrovasculardisease
+(P=0.03), procalcitonin (P=0.002) and D-dimer (P<0.001), (14%)anddiabetes(12%),respectively.Themostcommonpatterns
+prothrombin time (P=0.003), lymphocyte count (P=0.001), on chest CT were pure ground-glass opacity (36%) and ground-
+white blood cells (P=0.006), neutrophil count (P=0.001), glass opacities overlapped with striped shadows (40%). About
+lymphocyteratio(P<0.001),C-reactiveprotein(P<0.001),albu- 26%patientsunderwentthemechanicalventilation.Thesefindings
+min(P<0.001),prealbumin(P<0.001)andserumamyloid(P< conformwiththepreviousstudyofCOVID-19inWuhan,China[5,
+0.001) (Table3).AsillustratedinFigure3,lymphocytesprealbu- 13]. As of 8 February 2020, more than one-third (37, 37%) of
+min and albumin decreased as disease progressed while an patientswerecuredanddischarged,ahalf(53,52%)werestillhos-
+upward trend was witnessed in white bloodcells, C-reactive pro- pitalised,while11(11%)patientsdiedunfortunately.Themedian
+tein, neutrophils and lactate dehydrogenase decrease over time. time from initial symptoms to diagnosis was 7 days (IQR 5–13),
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 6 Mengyao Ji etal.
+Table2.Radiologicalfindingsstratifiedbyclinicalstages
+Variables Overall(N=121) Mild(N=70) Severe(N=42) Critical(N=9) Pvalue
+Radiologicalabnormalities 0.75a
+Ground-glassopacitiesoverlappedwithstriped 48(40%) 31(44%) 14(33%) 3(33%)
+shadows
+Pureground-glassopacity 44(36%) 25(36%) 15(36%) 4(44%)
+Mixedpatterns 3(2%) 1(1%) 2(5%) 0(0)
+Consolidation 18(15%) 10(14%) 7(17%) 1(11%)
+Reticularpatterns 4(3%) 2(3%) 2(5%) 0(0%)
+Others 4(3%) 1(1%) 2(5%) 1(11%)
+Bilaterallungsaffected 0.07a
+Bilaterallungs 97(80%) 50(71%) 38(91%) 9(100%)
+Rightlung 12(10%) 11(16%) 1(2%) 0(0%)
+Leftlung 12(10%) 9(13%) 3(7%) 0(0%)
+Singleormultiplelesionsa 0.033*
+Singlelesion 16(13%) 14(20%) 2(5%) 0(0%)
+Multiplelesions 105(87%) 56(80%) 40(95%) 9(100%)
+Lesionsize 0.003a**
+<1cm 4(3%) 3(4%) 1(2%) 0(0%)
+1–3cm 35(29%) 23(33%) 11(26%) 1(11%)
+3cm-50%lunglobe 66(55%) 42(60%) 20(48%) 4(44%)
+>50%lunglobe 16(13%) 2(3%) 10(24%) 4(44%)
+AI-basedvolumeratioofpneumonia
+−700∼500 0.19(0.11–0.29) 0.16(0.10–0.26) 0.20(0.14–0.35) 0.49(0.32–0.54) 0.002
+−600∼500 0.12(0.07–0.20) 0.09(0.07–0.17) 0.14(0.09–0.25) 0.32(0.20–0.41) 0.002
+−500∼−200 0.05(0.03–0.09) 0.04(0.03–0.08) 0.07(0.04–0.11) 0.14(0.09–0.20) 0.003
+Numberofaffectedlungsegments 9.5(3–14) 6.0(2–12) 12.0(6–15) 17.0(10–18) <0.001***
+Airbronchogram 53(44%) 25(36%) 21(50%) 7(78%) 0.034*
+Vesselthickening 79(65%) 42(60%) 30(71%) 7(78%) 0.34
+Halosigns 16(13%) 8(11%) 7(17%) 1(11%) 0.69
+Reversehalosigns 5(4%) 2(3%) 3(7%) 0(0%) 0.57a
+Mosaicsigns 17(14%) 5(7%) 9(21%) 3(33%) 0.024*
+Emphysema 16(13%) 7(10%) 7(17%) 2(22%) 0.42
+Pleuraleffusion 17(14%) 5(7%) 10(24%) 2(22%) 0.037*
+Stripedshadows 72(60%) 40(57%) 27(64%) 5(56%) 0.73
+Numberoflungsegmentswithstripedshadows 7.0(3–12) 4.0(2–8) 9.5(5–13) 9.5(8–13.5) 0.017*
+Numberoflungsegmentswithabnormalities
+ApicalsegmentofRULL 59(49%) 27(46%) 26(44%) 6(10%) 0.028a*
+PosteriorsegmentofRULL 66(55%) 31(47%) 28(42%) 7(11%) 0.029a*
+AnteriorsegmentofRULL 46(38%) 21(46%) 20(43%) 5(11%) 0.094
+OutersegmentofRMLL 62(51%) 31(50%) 24(39%) 7(11%) 0.12a
+InnersegmentofRMLL 50(41%) 24(48%) 21(42%) 5(10%) 0.18
+DorsalsegmentofRLLL 69(57%) 35(50%) 29(42%) 5(7%) 0.14
+BasalsegmentofRLLL 57(47%) 23(40%) 26(46%) 8(14%) <0.001a***
+AnteriorbasalsegmentofRLLL 43(36%) 15(35%) 22(51%) 6(14%) <0.001***
+(Continued)
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 EpidemiologyandInfection 7
+Table2.(Continued.)
+Variables Overall(N=121) Mild(N=70) Severe(N=42) Critical(N=9) Pvalue
+OuterbasalsegmentofRLLL 74(61%) 41(55%) 27(36%) 6(8%) 0.78
+PosteriorbasalsegmentofRLLL 83(69%) 44(53%) 31(37%) 8(10%) 0.19
+PosteriorapicalsegmentofLULL 49(41%) 23(47%) 21(43%) 5(10%) 0.13
+AnteriorsegmentofLULL 48(40%) 23(48%) 20(42%) 5(10%) 0.18
+UpperlingualsegmentofLULL 50(41%) 21(42%) 22(44%) 7(14%) 0.005**
+SublingualsegmentofLULL 62(51%) 27(44%) 28(45%) 7(11%) 0.004a**
+DorsalsegmentofLLLL 68(56%) 31(46%) 31(46%) 6(9%) 0.008***
+AnteriormedialbasalsegmentofLLLL 61(50%) 29(48%) 25(41%) 7(11%) 0.045a*
+OuterbasalsegmentofLLLL 70(58%) 34(49%) 29(41%) 7(10%) 0.047*
+PosteriorbasalsegmentofLLLL 87(72%) 42(48%) 37(43%) 8(9%) 0.003**
+RULL,rightupperlunglobe;RLLL,rightlowerlunglobe;RMLL,rightmiddlelunglobe;LULL,leftupperlunglobe;LLLL,leftlowerlunglobe.
+Note:Dataarepresentedasmedians(interquartileranges,IQR)andN(%).
+aPvaluewascalculatedusingFisher’sexactprobabilityinsteadofχ2test.
+*Pvalue<0.05,**Pvalue<0.01,***Pvalue<0.001.
+Table3.Laboratoryparametersstratifiedbyclinicalstages
+Patients(N=101)
+Parameters Total Mild(N=88) Severe(N=55) Critical(N=14) P-value
+CreatinekinaseU/l 68.5(41.2–100.5) 73.0(48.5–97.0) 64.0(33.0–103.0) 53.5(37.3–93.3) 0.70
+LactatedehydrogenaseU/l 237.0(191.5–302.5) 213.0(179.5–271.0) 257.0(217.0–319.0) 350.0(248.0–494.0) 0.001**
+ALTU/l 21.0(14.0–33.0) 19.5(13.0–31.5) 21.5(15.3–38.5) 25.0(19.8–30.3) 0.42
+ASTU/l 24.0(19.0–32.3) 24.0(19.0–30.0) 24.5(19.0–32.0) 35.0(21.8–42.8) 0.16
+Totalbilirubinμmol/l 8.9(7.4–12.8) 8.6(7.4–12.8) 8.7(7.3–12.8) 11.0(8.8–12.5) 0.78
+Creatininemmol/l 59.0(50.0–81.3) 60.5(51.0–77.8) 56.0(48.0–84.5) 62.0(50.5–112.3) 0.71
+Bloodureammol/l 4.5(3.7–6.0) 4.3(3.7–5.1) 4.8(3.1–6.7) 6.4(5.1–10.2) 0.03*
+Procalcitoninng/ml 0.06(0.03–0.12) 0.04(0.03–0.09) 0.08(0.04–0.13) 0.17(0.09–1.26) 0.002**
+D-dimermg/l 0.5(0.2–1.3) 0.4(0.2–0.7) 0.6(0.3–1.2) 1.7(1.0–3.4) <0.001***
+Prothrombintimesec 11.3(10.9–12.0) 11.2(10.7–11.8) 11.3(10.9–11.8) 12.1(11.7–12.9) 0.003
+Plateletcount109/l 163.5(122.3–213.8) 161(128.0–195.0) 180.0(122.5–237.5) 165.5(107.5–229.0) 0.54
+Monocytecount109/l 0.4(0.3–0.6) 0.5(0.3–0.6) 0.4(0.2–0.5) 0.3(0.1–0.6) 0.12
+Lymphocytecount109/l 1.0(0.7–1.5) 1.15(0.8–1.5) 0.92(0.6–1.4) 0.59(0.5–0.9) 0.001***
+Whitebloodcells109/l 5.2(3.9–7.1) 4.8(3.8–6.4) 5.2(4.0–7.3) 9.8(6.3–11.7) 0.006**
+Neutrophilcount109/l 3.3(2.4–5.2) 3.2(2.2–4.2) 3.3(2.5–6.1) 8.5(4.2–10.6) 0.001**
+Lymphocyteratio% 21.7(12.3–30.5) 24.6(15.9–32.4) 18.0(8.7–28.9) 5.5(4.3–14.9) <0.001***
+CRPmg/l 17.2(5.9–56.0) 12.6(3.9–39.6) 24.7(12.0–59.8) 91.6(49.8–124.6) <0.001***
+Albuming/l 37.0(33.7–40.8) 39.6(36.5–42.1) 34.7(32.6–37.8) 31.9(29.9–36.0) <0.001***
+Directbilirubinμmol/l 3.4(2.5–4.8) 3.3(2.5–4.3) 3.3(2.6–5.0) 4.2(3.3–5.5) 0.36
+Globuling/l 23.4(21.6–26.8) 23.3(21.2–25.5) 24.09(21.8–27.2) 26.8(24.2–28.7) 0.06
+Prealbuminmg/l 130.8(95.1–189.1) 149.6(107.5–200.8) 121.59(92.22–174.7) 89.9(57.3–94.3) <0.001***
+SerumamyloidAmg/l <0.001***
+<5.0 33 19(22%) 12(22%) 2(14%)
+5.0–300.0 73 53(60%) 18(33%) 2(14%)
+>300.0 51 16(18%) 25(46%) 10(71%)
+Note:Dataarepresentedasmedians(interquartileranges,IQR)andN(%).
+*Pvalue<0.05,**Pvalue<0.01,***Pvalue<0.001.
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 8 Mengyao Ji etal.
+Fig.3.Laboratoryparametersstratifiedbyclinicalstages.
+aswellas4.0days(IQR2–7)formediantimefromadmissionto asdiseaseprogressed.Alsowhetherornothavingdyspnoeaasini-
+diagnosis. This finding further confirms the viewpoint that the tial symptoms and the respiratory frequency in physical examin-
+mediantimefromonsettoadmissionwas7daysbyHuangetal. ation on admission were both significantly different among
+[5].However,themediantimefrominitialsymptomstodiagnosis groups of different clinical stages (higher probability observed
+wasshortenedgreatlyduringJanuary(FigureS2),thisisduetothe insevereorcriticalstagethanthemildone),suggestingthatatten-
+substantialsuppliesofSARS-Cov-2detectionkit.Thissharpdown- tion should be paid to the patient’s underlying disease and first
+trendcouldalsobewitnessedformediantimefromadmissionto symptoms when treating COVID-19 [8, 15–17].
+diagnosis. Moreover,mostpatientspresentedwithpatchy,lumpyorseg-
+Notable, the majority (72%) of the non-medical-staff patients mental ground-glass shadows in the subpleural area in an early
+had complications, which primarily were cardiovascular diseases stage. Also, the most common lesions were on the posterior and
+and diabetes. This proportion was higher than SARS but close lateral sides of the lower pulmonary lobe. Yet it was light in the
+to MERS [14], suggesting that patients with pre-existing condi- shadowsofinfiltrationofinflammationinlunglobeatthebegin-
+tions should get well-prepared for the prevention of ning, mainly related to its pathological changes, still suggesting
+SARS-CoV-2. On admission, most patients had fever (68%), the that the SARS-CoV-2 alreadyaffected the lung before symptoms
+most common symptom of the disease in the study. were being recognised. As the disease progressed, an upward
+Importantly, a significant proportion of patients without fever trendwasobservedinthenumbersofground-glassopacitiesover-
+inanearlystage,andweremorevulnerabletobeignored,indicat- lapped with striped shadows, of affected pulmonary segments,
+ingthatmoreattentionshould begiventopatientswithoutfever illustrating that pulmonary fibrosis became more severe and to
+when screening and diagnosing COVID-19. someextentfurthersuggestingthatpatientsareatriskofirrevers-
+Additionally,86ofthe101patientswerediagnosedwithmild ibledamagetolungfunctioninthefuture,whichmayfurtherlead
+pneumonia on admission, 42 of the 86 patients maintained or tofunctionaldisabilityandaffectthequalityoflife.Suchsequelae
+improved. Meanwhile, 19 of 42 get cured in a short period and occurred in both patients infected with SARS or MERS [11, 18].
+no deathoccurred.While,44 ofthe 86 mild pneumonia patients Hence, adding supportive treatment to the therapeutic regimen
+progressed to severe condition within 4 days, among which 13 shouldbetakenintoconsiderationtoimprovepatient’simmunity,
+were cured and 11 died. This suggested that we should pay to weaken the damages to the lungs caused by viral pneumonia
+moreattentiontothediseaseatanearlystage,ratherthanneglect- andtoreducetheriskofsequelae.Inaddition,nosignificantdif-
+ing the mild illness. Besides, we could see that COVID-19 pro- ferencewas shown in typical radiological patterns among groups
+gresses rapidly within 4 days from mild-to-severe condition, of different clinical stages but mosaic signs and pleural effusion,
+further illustrated by variations in radiological characteristics which might relate to prognosis. Meanwhile, AI-based diagnosis
+over time in this study. Indeed, it is significantly crucial to system showed similar results in assessment of lesions size as
+speed up the diagnosis process of suspected cases and make what was evaluated by the radiologists. It is alsoworth mention-
+sure all potential patients are able to get access to hospitals for ing that such AI system greatly improved diagnostic efficiencyof
+observationandtreatmentatanearlystage.Furthermore,patients COVID-19, alleviating the surge in demand of radiologists when
+withcomplicationscouldhighlydevelopsevereandcriticalillness the virus is stalking China.
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 EpidemiologyandInfection 9
+In this study, significant differences were found in lactate Radiologicalpatternsandlaboratoryparameterscantimelyreflect
+dehydrogenase, D-dimer, prothrombin, lymphocyte count, white disease’sprogression,providingusefulhelpfordisease’sdiagnosis
+blood cell count, neutrophil count, C-reactive protein, albumin and treatment.
+and serum amyloid A as the disease progressed. Some of those
+indicators were inconsistent with previous studies [13]. In add-
+ition, we observed that the amount of albumin and prealbumin Supplementarymaterial. Thesupplementary materialfor thisarticle can
+befoundathttps://doi.org/10.1017/S0950268820000977.
+in critically or severely ill patients were significantly lower than
+those of mild ones. Such differences might relate to the cytokine Authorcontributions.
+stormcausedbythevirusatthelatestageofthediseaseandother Ji,MY,Yuan,L,Shen,W,Lv,JWandShi,Lhaddevisedtheidea,designedthestudyand
+factors, such as subsequent hypoxia, gastrointestinal dysfunction, hadfullaccesstoalldataduringthestudyandhavetakentheresponsibilityfortheinteg-
+endocrine and metabolic disorders, insufficient nutrition intake rityofthedataandtheaccuracyofthedataanalysis.Dong,WGandYuan,Lcontributed
+towritingthereport.Ji,MYcontributedtocriticalrevisionofthereport.Yuan,LandLi,
+and the use of ventilator with positive pressure, and increased
+Mcontributedtocollectthedata.Li,Y,Hu,LHandLu,XFcontributedtoreadtheCT
+energy consumption in the body. Eventually, malnutrition pictures.Xie,WJandShen,Wcontributedtothestatisticalanalysis.Allauthorscontrib-
+would be caused or aggravated. As a negative acute phase utedtodataacquisition,dataanalysisordatainterpretation,andreviewedandapproved
+response protein and a kind of substance in non-specific host thefinalversion.
+defense, prealbumin can clear the toxic metabolites released in
+Financial support. National Natural Science Foundation of China
+the circulation during the infection process, and therefore its
+(81901817); Natural Science Foundation of Hubei Province (2018CFB136);
+amount reduced in blood as it was gradually consumed. This
+InnovationSeedFundingofWuhanUniversity(TFZZ2018020).
+remindsustoprovidenutritionsupportforthesekindofpatients
+[19]. Meanwhile, we found that some inflammation indicators, Conflictsofinterest. Noconflictofinterest.
+such as C-reactive protein, and serum amyloid A, increased in
+the early stage of the disease, but higher amounts of them were
+observed in severe and critical patients than that of mild cases.
+References
+This might indicate the patients were in the state of acute stress
+with elevated serum amyloid A and C-reactive protein, which 1. LuHZ,StrattonCWandTangYW(2020)Outbreakofpneumoniaof
+areabletobindvariousmicroorganisms’polysaccharidesandtis- unknown etiology in Wuhan, China: the mystery and the miracle.
+suecells’phospholipidsandnucleicacidstoactivatetheimmune JournalofMedicalVirology92,401–402.
+2. ZumlaAetal.(2019)VaccineagainstMiddleEastrespiratorysyndrome
+system, improving immunity and mediating inflammatory
+coronavirus.TheLancetInfectiousDiseases19,1054–1055.
+responses. 3. Chen N et al. (2020) Epidemiological and clinical characteristics of 99
+No difference on treatment effect of various drugs was
+casesof2019novelcoronaviruspneumoniainWuhan,China:adescrip-
+observed for patients with different disease progression states; it tivestudy.Lancet(London,England)395,507–513.
+mightbeduetothefactthatthereisnospecifictreatmentguide- 4. LiQetal.(2020)EarlytransmissiondynamicsinWuhan,China,ofnovel
+line for patients with novel coronavirus pneumonia at different coronavirus-infected pneumonia. The New England Journal of Medicine
+states, which might be the main causes for the death of severe 382,1199–1207.
+and critical patients. In addition, the evidences collected in this 5. Huang C et al. (2020) Clinical features of patients infected with 2019
+study cannot confirm which treatment can obviously control novel coronavirus in Wuhan, China. Lancet (London, England) 395,
+497–506.
+the disease progression among current clinical treatment regi-
+6. Song F et al. (2020) Emerging 2019 novel coronavirus (2019-nCoV)
+mens. Therefore, pro-active actions should be taken to accelerate
+pneumonia.Radiology295,210–217.
+theclinicaltrialforpotentialeffectdrugs,suchasRemdesivir,and
+7. Prevention NIfVDCa (2020) Specific primers and probes for detection
+various drug combinations [9, 20]; meanwhile, more existing
+2019 novel coronavirus. Available at http://ivdcchinacdccn/kyjz/202001/
+drugs on the market, which can enhance immune response, t20200121_211337html.
+reduce immunopathology and prevent or suppress ARDS, such 8. AssiriAetal.(2013)Epidemiological,demographic,andclinicalcharac-
+as metformin, glitazone, sartans, atorvastin and relative nutri- teristicsof47casesofMiddleEastrespiratorysyndromecoronavirusdis-
+tional supplements and biologics, might be effective treatment easefromSaudiArabia:adescriptivestudy.LancetInfectiousDiseases13,
+options for this disease [4, 21–23]. 752–761.
+This study has several limitations. Firstly, only 48 of the 101 9. Kitami A et al. (2012) One-dimensional mean computed tomography
+value evaluation of ground-glass opacity on high-resolution images.
+patients included in the study currently have an endpoint, and
+GeneralThoracicandCardiovascularSurgery60,425–430.
+theothersarestillundertreatment,thereforenoindicatorsrelated
+10. Ooi GCet al. (2004) Severe acute respiratorysyndrome: temporal lung
+to prognosis could be selected and further explored. Secondly, changesatthin-sectionCTin30patients.Radiology230,836–844.
+despite the fact that we believed that cellular and humoral 11. WongKTetal.(2003)Thin-sectionCTofsevereacuterespiratorysyn-
+immunity play an important role in the disease process, it was drome: evaluation of 73 patients exposed to or with the disease.
+notusedasaroutinetest,aswedidnotfullyunderstandthedis- Radiology228,395–400.
+ease at an early stage, making these important indicators impos- 12. ChinaCPsGotPsRo(2020)Diagnosisandtreatmentofpneumoniacaused
+sible to analyse. Nevertheless, we were to collect relevant bySARS-CoV-2(5thtrialversion).Availableathttp://wwwgovcn/zhengce/
+informationforfurtheranalysis.Thirdly,datasamplesarelimited zhengceku/2020-02/05/content_5474791htm.
+because we need to continually and actively fight and treat 13. WangDetal.(2020)Clinicalcharacteristicsof138hospitalizedpatients
+with 2019 novel coronavirus-infected pneumonia in Wuhan, China.
+SARS-CoV-2.
+JAMA323,1061–1069.
+14. Zumla A, Hui DS and Perlman S (2015) Middle East respiratorysyn-
+Conclusion drome.Lancet(London,England)386,995–1007.
+15. Arabi YM et al. (2014) Clinical course and outcomes of critically ill
+The COVID-2019 progresses rapidly and early intervention and patients with Middle East respiratory syndrome coronavirus infection.
+treatment are critically crucial for patients’ prognosis. AnnalsofInternalMedicine160,389–397.
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977 10 Mengyao Ji etal.
+16. Al-TawfiqJAetal.(2014)MiddleEastrespiratorysyndromecoronavirus: 20. CohenJGetal.(2016)Softwareperformanceinsegmentingground-glass
+a case−control study of hospitalized patients. Clinical Infection Diseases and solid components of subsolid nodules in pulmonary adenocarcin-
+59,160–165. omas.EuropeanRadiology26,4465–4474.
+17. AssiriAetal.(2013)HospitaloutbreakofMiddleEastrespiratorysyn- 21. ZumlaAetal.(2020)Reducingmortalityfrom2019-nCoV:host-directed
+dromecoronavirus.TheNewEnglandJournalofMedicine369,407–416. therapiesshouldbeanoption.Lancet(London,England)395,E35–EE6.
+18. ParkWBetal.(2018)Correlationbetweenpneumoniaseverityandpul- 22. WangMLetal.(2020)Remdesivirandchloroquineeffectivelyinhibitthe
+monary complications in Middle East respiratory syndrome. Journal of recentlyemerged novel coronavirus (2019-nCoV) in vitro. Cell Research
+KoreanMedicalScience33,e169. 30,269–271.
+19. WuQetal.(2017)AlteredlipidmetabolisminrecoveredSARSpatients 23. Lu HZ (2020) Drug treatment options for the 2019-new coronavirus
+twelveyearsafterinfection.ScientificReport7,9110. (2019-nCoV).BioscienceTrends14,69–71.
+Downloaded from https://www.cambridge.org/core. IP address: 174.115.80.115, on 18 May 2020 at 20:44:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0950268820000977
